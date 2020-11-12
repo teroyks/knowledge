@@ -9,4 +9,10 @@
 
 ## Tools
 
+- [create-python-project](create-python-project.fish) is my (fish) shell script to create a new directory with
+  - pipenv
+  - linter
+  - formatter
+  - pytest
+  - VS Code setup
 - [bpython](https://bpython-interpreter.org) -- “fancy interface” to Python: syntax highlighting, autocomplete, parameter list, undo last command, etc.
