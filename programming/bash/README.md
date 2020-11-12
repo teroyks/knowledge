@@ -30,7 +30,7 @@ if (( $? )); then
 fi
 ```
 
-## Test External Commands
+## External Commands
 
 ### Command Exists
 
@@ -60,4 +60,18 @@ REQUIRED_VERSION=2.29.0
 if [[ $GIT_VERSION < $REQUIRED_VERSION ]]; then
     die "Error: git version $REQUIRED_VERSION or newer required; current version is $GIT_VERSION"
 fi
+```
+
+### Output Redirection
+
+Pipe only STDERR to a program, preserve STDOUT:
+
+```shell
+exec 3>&1; script-name 2>&1 >&3 3>&- | mailx -s "only errors" e@mail; exec 3>&-
+```
+
+Redirect STDOUT to file , pipe STDERR to a program:
+
+```shell
+script-name 2>&1 >/dev/null | mailx -s "only errors" e@mail
 ```
