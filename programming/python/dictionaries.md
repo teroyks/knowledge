@@ -1,5 +1,17 @@
 # Dictionary Handling
 
+## Construct
+
+```python
+k = {'red':21, 'green':68, 'blue':120, 'alpha':52 }
+```
+
+With keywords:
+
+```python
+k = dict(red=21, green=68, blue=120, alpha=52)
+```
+
 ## Merge Dictionaries
 
 from 3.9
