@@ -16,3 +16,7 @@
   - pytest
   - VS Code setup
 - [bpython](https://bpython-interpreter.org) -- “fancy interface” to Python: syntax highlighting, autocomplete, parameter list, undo last command, etc.
+
+## Notes, Articles, etc.
+
+- [working with large datasets](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
