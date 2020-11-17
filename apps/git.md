@@ -13,7 +13,7 @@
 Avoid the `-m` flag – it encourages writing one-line commit messages that are usually too short for proper explanation of what (and esp. why) was changed.
 
 - a good [article](https://chris.beams.io/posts/git-commit/) on writing commit messages
-- [gitmoji](https://gitmoji.carloscuesta.me) are a handy way to add visual cues (and some whimsy) to what the commits are about (I enter them with the help of an [Alfred workflow](../apple/mac/alfred/README.md))
+- [gitmoji](https://gitmoji.carloscuesta.me) are a handy way to add visual cues (and some whimsy) to what the commits are about (I enter them with the help of an [Alfred workflow](../apple/mac/alfred/README.md#workflows))
 
 ## List Branches
 
