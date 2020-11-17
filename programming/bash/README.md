@@ -75,3 +75,15 @@ Redirect STDOUT to file , pipe STDERR to a program:
 ```shell
 script-name 2>&1 >/dev/null | mailx -s "only errors" e@mail
 ```
+
+### Read Command Output
+
+Read COMMAND output line by line.
+`-r`: no backslash escaping.
+
+```shell
+while read -r LINE
+do
+    # handle $LINE
+done < <(COMMAND)
+```
