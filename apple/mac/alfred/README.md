@@ -6,7 +6,7 @@
 
 I've set Alfred to use the **⌘-Space** hotkey. This opens the Alfred popup window.
 
-![Popup open with app search results listed](popup.png)
+<img src="popup.png" alt="Popup open with app search results listed" width="800" height="532">
 
 ### Configuration
 
