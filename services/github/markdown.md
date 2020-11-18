@@ -1,4 +1,4 @@
-# GitHug-flavored Markdown
+# GitHub-flavored Markdown
 
 Things that work for in Markdown files in GitHub.
 
