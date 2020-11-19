@@ -14,4 +14,10 @@
 
 ## Movies
 
-[Kermode and Mayo’s Film Review](https://www.bbc.co.uk/programmes/b00lvdrj) – Wittertainment at its wittertainiest. Mark Kermode is my favorite movie critic: insightful, funny, versatile, with vast knowledge of the world of cinema. And not above getting into silly bickering with co-host Mayo or every now and then launching into an epic rant about something or other.
+[Kermode and Mayo’s Film Review](https://www.bbc.co.uk/programmes/b00lvdrj) – Wittertainment at its wittertainiest. Mark Kermode is my favorite movie critic: insightful, funny, versatile, with vast knowledge of the world of cinema. And not above getting into silly bickering with co-host Mayo or every now and then launching into an epic rant about something or other
+
+## Science Fiction
+
+[Our opinions are correct](https://www.ouropinionsarecorrect.com) – Science fiction writer Charlie Jane Anders and science journalist Annalee Newitz discuss various topics around science fiction, its meaning, society, etc. Emphasis on books but also covers movies & tv, fandom, comics, etc.
+
+[Welcome to Night Vale](http://www.welcometonightvale.com) – a community radio show from the small town of Night Vale. The host Cecil keenly observes as the citizens of Night Vale go about their daily lives which include the Sheriff’s secret police, a faceless old woman who secretly lives in your house, and a dog park. Except that people aren’t allowed in the dog park. Dogs aren’t allowed in the dog park. Who told you about the dog park anyway? And what happened to the five-headed dragon?
