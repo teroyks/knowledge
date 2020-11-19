@@ -69,3 +69,10 @@ A couple of macOS-specific ones:
 
 - `core.ignorecase=true` – work better with a case-insensitive filesystem (e.g. on a Mac)
 - `core.precomposeunicode=true` – revert the Unicode decomposition of filenames done by macOS
+
+## Scripts
+
+Some scripts to help with managing version control.
+
+- [repo updates](https://github.com/teroyks/git-helpers) – help manage local branches (remove when remote is gone)
+- [multi-repo status](https://github.com/teroyks/gitmstatus) – finds and updates all repositories under the current directory
