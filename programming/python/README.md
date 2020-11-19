@@ -1,5 +1,9 @@
 # Python Stuff
 
+## Libraries
+
+- [Fractions](https://docs.python.org/3.9/library/fractions.html?highlight=fraction) – rational number arithmetic
+
 ## Useful Packages
 
 - [AutoScraper](https://github.com/alirezamika/autoscraper) -- lightweight web scraper
