@@ -15,3 +15,4 @@ I've set Alfred to keep its configuration on a folder synced between computers w
 ## Workflows
 
 - [Gitmoji](https://github.com/Quilljou/alfred-gitmoji-workflow) – Search and copy gitmoji to clipboard
+- [Play Video](workflows/Play%20Video%20URL%20in%20Iina.alfredworkflow) – Play media from URL in Iina
