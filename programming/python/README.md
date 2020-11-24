@@ -24,3 +24,9 @@
 ## Notes, Articles, etc.
 
 - [working with large datasets](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
+
+## Examples
+
+### Excel (with Pandas)
+
+[Read an Excel file](https://github.com/teroyks/excel2csv) with Pandas and convert to CSV.
