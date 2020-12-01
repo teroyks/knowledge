@@ -13,7 +13,7 @@
 
 ## Tools
 
-- [create-python-project](create-python-project.fish) is my (fish) shell script to create a new directory with
+- [create-python-project](scripts/create-python-project.sh) is my (bash) shell script to create a new directory with
   - pipenv
   - linter
   - formatter
