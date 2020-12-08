@@ -57,13 +57,18 @@ cat << EOF > .vscode/settings.json
 }
 EOF
 
-# Ignore python builds and .env files
+# Download default .gitignore if `wget` is available.
+# Otherwise ignore python builds and .env files
 
+which wget >/dev/null 2>&1 && {
+    wget https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore --output-document .gitignore
+} || {
 cat << EOF > .gitignore
 __pycache__
 *.pyc
 .env
 EOF
+}
 
 # Configure pytest so it finds modules under src/
 

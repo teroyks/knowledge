@@ -12,6 +12,8 @@ An encrypted volume can be erased with Disk Utility without knowing the decrypti
 
 ## Startup
 
+### Intel
+
 Startup keys for Intel Macs:
 
 - ⌘-R – recovery mode
@@ -26,6 +28,15 @@ Startup keys for Intel Macs:
 - Eject/F12/Mouse button/Trackpad button – eject removable media
 
 Setting a firmware passwords asks for the password when booting to recovery mode or startup manager, and disables the other modes.
+
+### Apple Silicon
+
+Startup to recovery mode for Apple silicon Macs:
+
+1. Turn off the computer.
+2. Turn it on and hold down the power button.
+3. Select the options icon from the startup screen.
+4. Enter the admin password if asked.
 
 ## Touch ID
 
