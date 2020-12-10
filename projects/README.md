@@ -5,6 +5,7 @@
 - [random Barks quote](https://barks-quote.tero.workers.dev/) (in Finnish)
 - [a drabble editor](https://drabbledit.netlify.app/)
 - [post daily lunch menus to Slack](https://github.com/teroyks/lunch-menu-slack)
+- [Excel to CSV converter](https://github.com/teroyks/excel2csv)
 
 ## Git Helpers
 
