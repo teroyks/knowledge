@@ -19,3 +19,12 @@ print(inst)      # CustomImmutableClass: {"bar": xyz, "foo": abc}
 inst.foo         # 'abc'
 inst.foo = 'aaa' # data_object.exceptions.ImmutableObjectViolation
 ```
+
+## Object to JSON
+
+Serialize an object to a JSON string without converting to ASCII
+(Works if an object is serializable to JSON).
+
+```python
+json.dumps(my_object, ensure_ascii=False)
+```
