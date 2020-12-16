@@ -8,6 +8,14 @@ _Note: many of the things here can also apply to pure Bourne shell (sh), zsh, et
 basename $PWD
 ```
 
+### Script Directory
+
+Find out full path to the script dir
+
+```shell
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+```
+
 ## Eternal Loop
 
 ```shell
@@ -87,3 +95,7 @@ do
     # handle $LINE
 done < <(COMMAND)
 ```
+
+## Output Colors
+
+See [attached script](term-colors.sh) for examples of outputting color text with [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code).
