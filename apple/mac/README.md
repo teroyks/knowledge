@@ -10,6 +10,19 @@ The official name (and spelling) of the OS is _macOS_ (“mac o-s”, /ˌmækoʊ
 
 An encrypted volume can be erased with Disk Utility without knowing the decryption password (the contencts will be erased) – just select the volume or drive and click _Erase_.
 
+### Cryptographic Erase
+
+Not really needed, but an even more secure way of erasing a drive:
+
+1. Enable FileVault in _System Preferences > Security & Privacy_. Write down the password.
+2. Restart in Recovery mode.
+3. Launch Disk Utility.
+4. Select the boot disk > _Unlock_ from the _File_ menu. Enter the FileVault password.
+5. Erase the disk normally.
+6. Reinstall MacOS.
+
+_(from [the Mac Observer](https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd/))_
+
 ## Startup
 
 ### Intel
