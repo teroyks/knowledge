@@ -27,3 +27,13 @@ a | b # {'foo': 'override', 'bar': 2, 'baz': 3, 'new': True}
 ```python
 min(my_dict, key=my_dict.get)
 ```
+
+## Tuple Keys
+
+Tuples can be used as dictionary keys:
+
+```python
+a = (1, 2)
+d = {}
+d[a] = 30
+```
