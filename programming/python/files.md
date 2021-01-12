@@ -12,7 +12,7 @@ except FileExistsError:
     pass
 ```
 
-## Construct File Path
+## Handle File Path
 
 ≥ 3.4
 
@@ -26,3 +26,6 @@ file_path = data_folder / 'raw_data.txt'
 ```
 
 This is secure even if the original path is empty (will default to `.` and leave it _and_ the slash out when combining paths).
+
+`Path` can also check file properties and extract components. See
+[examples](https://gist.github.com/teroyks/eb04baf99d8a921af4f29c51b1b2f347).
