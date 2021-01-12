@@ -6,6 +6,7 @@
 - [a drabble editor](https://drabbledit.netlify.app/)
 - [post daily lunch menus to Slack](https://github.com/teroyks/lunch-menu-slack)
 - [Excel to CSV converter](https://github.com/teroyks/excel2csv)
+- [EPUB file rename](https://github.com/teroyks/epub-rename)
 
 ## Git Helpers
 
