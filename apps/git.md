@@ -64,6 +64,7 @@ alias.undo-commit=reset --soft HEAD^
 - `core.autocrlf=input` – do not do line ending conversion
 - `core.filemode=true` – honor file executable bit in the working tree
 - `core.pager=delta` – use [delta](https://github.com/dandavison/delta) as default pager (needs to be installed separately)
+- `init.defaultBranch` – use something other than `master` as the default branch for new repositories
 
 A couple of macOS-specific ones:
 
