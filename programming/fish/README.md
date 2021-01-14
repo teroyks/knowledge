@@ -4,6 +4,16 @@ Fish if the “friendly, interactive shell”. It's a modern alternative to the 
 
 ## Recipes
 
+### Command Substitution
+
+Use command output instead of file contents by piping to `psub`.
+
+Example: print out files as a comma-separated list
+
+```shellsession
+paste -s -d, (ls | psub)
+```
+
 ### Random Numbers
 
 ```shellsession

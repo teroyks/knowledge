@@ -2,6 +2,16 @@
 
 _Note: many of the things here can also apply to pure Bourne shell (sh), zsh, etc. – collected under “Bash” since that’s what I’ve used the most._
 
+## Command Substitution
+
+Use command output instead of file contents.
+
+Example: print out files as a comma-separated list
+
+```shellsession
+paste -s -d, <(ls)
+```
+
 ## Current Directory
 
 ```shell
