@@ -8,6 +8,16 @@ Standard utility that formats its input into multiple columns.
 
 - `column -t -s '|'` -- format fields separated by `|` into a table
 
+## paste
+
+Merges lines of files.
+
+Paste all lines in FILE together into a comma-separated list:
+
+```shellsession
+paste -s -d, FILE
+```
+
 ## seq
 
 Generates a sequence of numbers
