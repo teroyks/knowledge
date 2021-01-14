@@ -1,12 +1,5 @@
 # Useful Unix Utilities
 
-## [column](https://www.man7.org/linux/man-pages/man1/column.1.html)
-
-Standard utility that formats its input into multiple columns.
-
-### Examples
-
-- `column -t -s '|'` -- format fields separated by `|` into a table
 
 ## [fd-find](https://lib.rs/crates/fd-find)
 
