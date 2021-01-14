@@ -61,6 +61,8 @@ alias.undo-commit=reset --soft HEAD^
 ### Other Useful Settings
 
 - `color.ui=true` – use color in the command output
+- `commit.tempate=FILE` – use FILE as template for commit messages
+  - Use `#` or `;` to add comments to your template file
 - `core.autocrlf=input` – do not do line ending conversion
 - `core.filemode=true` – honor file executable bit in the working tree
 - `core.pager=delta` – use [delta](https://github.com/dandavison/delta) as default pager (needs to be installed separately)
