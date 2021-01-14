@@ -9,6 +9,7 @@
 - [AutoScraper](https://github.com/alirezamika/autoscraper) -- lightweight web scraper
 - [PandasGUI](https://github.com/adamerose/pandasgui) -- GUI for analyzing dataframes
 - [pycld2](https://pypi.org/project/pycld2/) -- identify language of a text
+- [Pydantic](https://pydantic-docs.helpmanual.io/usage/models/) -- define data models with types, constraints, and validation
 - [Streamlit](https://www.streamlit.io) -- quickly create web apps from data
 
 ## Tools
