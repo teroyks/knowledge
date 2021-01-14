@@ -18,7 +18,7 @@ Paste all lines in FILE together into a comma-separated list:
 paste -s -d, FILE
 ```
 
-To paste command output instead of file contents, use command substitution (see [bash](../programming/bash#command-substitution), [fish](../programming/fish#command-substitution)).
+To paste command output instead of file contents, use command substitution (see [bash & zsh](../programming/bash#command-substitution), [fish](../programming/fish#command-substitution)).
 
 ## seq
 
