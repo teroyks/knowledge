@@ -4,6 +4,16 @@
 
 The official name (and spelling) of the OS is _macOS_ (“mac o-s”, /ˌmækoʊˈɛs/). Until 2016, it was called _Mac OS X_ (“[mac o-s ten](https://support.apple.com/kb/TA22541)”).
 
+## Files
+
+### Locking a File
+
+A locked file can’t be renamed or deleted without confirming the operation (Finder) or using root privileges (command line).
+
+- To lock a file in Finder: _Get Info → Locked_
+- in Preview or other apps that support this: choose _Locked_ in file name view
+- `SetFile -a L FILE` in a terminal (lowercase-l to unlock)
+
 ## Security
 
 ### Erase an Encrypted Drive
@@ -22,6 +32,10 @@ Not really needed, but an even more secure way of erasing a drive:
 6. Reinstall MacOS.
 
 _(from [the Mac Observer](https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd/))_
+
+## Share Screen
+
+In Messages, open a chat, click on the round `i` icon, and select either _Share My Screen_ or _Ask to Share Screen_.
 
 ## Startup
 
