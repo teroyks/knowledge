@@ -2,6 +2,16 @@
 
 [Deno](https://deno.land) is a Typescript (and Javascript) runtime.
 
+## Code Completion
+
+run `deno completions SHELL` to outputs the autocomplete script for given shell.
+
+Example (fish):
+
+```shellsession
+deno completions fish > ~/.config/fish/completions/deno.fish
+```
+
 ## Useful Links
 
 - [Deno Manual](https://deno.land/manual)
