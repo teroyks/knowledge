@@ -2,6 +2,8 @@
 
 Pipenv helps create and maintain virtual environments. It is a bit easier (and more robust when the system Python version changes) than runnind `virtualenv` directly.
 
+[Comparison with Poetry](https://johnfraney.ca/posts/2019/11/19/pipenv-poetry-benchmarks-ergonomics-2/)
+
 ## Get Started
 
 In the project directory:
