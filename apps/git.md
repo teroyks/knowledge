@@ -35,6 +35,37 @@ Avoid the `-m` flag – it encourages writing one-line commit messages that are 
 - `git restore -s <tree> [<path>]` – restore with contents from source `tree`
 - `git restore -p <path>` – patch: interactively select hunks from diff
 
+## See Who Made Changes
+
+Show line-by-line list of who last updated a file:
+
+```shellsession
+git blame <file>
+```
+
+### Ignore Revisions
+
+It is sometimes handy to ignore some commits, for example if the code has been reformatted but you want to see who last made meaningful changes.
+
+Add the revisions (full commit hash) to be ignored to a file, for example `.git-blame-ignore-revs`, for example:
+
+```text
+# Migrate text to new indentation format
+a9e84db48f4c4103294d0ee13793389b16ea9153
+```
+
+Now you can ignore those commits when running the blame command:
+
+```shellsession
+git blame <file> --ignore-revs-file .git-blame-ignore-revs
+```
+
+You can also ignore the revisions automatically in your repository:
+
+```shellsession
+git config blame.ignoreRevsFile .git-blame-ignore-revs
+```
+
 ## [Configuration](https://git-scm.com/docs/git-config)
 
 ### Access Configuration Values
