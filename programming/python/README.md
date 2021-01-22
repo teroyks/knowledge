@@ -17,9 +17,9 @@
 - [create-python-project](scripts/create-python-project.sh) is my (bash) shell script to create a new directory with
   - pipenv
   - linter
-  - formatter
+  - formatter (todo: try out [Black](https://github.com/psf/black) instead)
   - pytest
-  - VS Code setup
+  - VS Code setup (todo: add [Black](https://marcobelo.medium.com/setting-up-python-black-on-visual-studio-code-5318eba4cd00))
 - [bpython](https://bpython-interpreter.org) -- “fancy interface” to Python: syntax highlighting, autocomplete, parameter list, undo last command, etc.
 
 ## Notes, Articles, etc.
