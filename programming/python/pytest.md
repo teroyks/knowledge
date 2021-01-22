@@ -27,3 +27,7 @@ Run a specific test within a module:
 ```python
 pytest test_mod.py::test_func
 ```
+
+## Resources
+
+- [Pytest guide](https://stribny.name/blog/pytest/)
