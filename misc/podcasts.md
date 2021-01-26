@@ -21,3 +21,8 @@
 [Our opinions are correct](https://www.ouropinionsarecorrect.com) – Science fiction writer Charlie Jane Anders and science journalist Annalee Newitz discuss various topics around science fiction, its meaning, society, etc. Emphasis on books but also covers movies & tv, fandom, comics, etc.
 
 [Welcome to Night Vale](http://www.welcometonightvale.com) – a community radio show from the small town of Night Vale. The host Cecil keenly observes as the citizens of Night Vale go about their daily lives which include the Sheriff’s secret police, a faceless old woman who secretly lives in your house, and a dog park. Except that people aren’t allowed in the dog park. Dogs aren’t allowed in the dog park. Who told you about the dog park anyway? And what happened to the five-headed dragon?
+
+## Tools
+
+- [Listen Notes](https://www.listennotes.com) – a podcast search engine where you can (for example) look for episodes that feature a specific person
+- [Overcast](https://apps.apple.com/us/app/overcast/id888422857) – a great podcast app for iOS. Includes advanced features to make the episodes sound better (for example leveling the volume and shortening extra silences) and allows customizing how many episodes to keep per podcast
