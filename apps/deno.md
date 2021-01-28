@@ -12,6 +12,22 @@ Example (fish):
 deno completions fish > ~/.config/fish/completions/deno.fish
 ```
 
+## Subprocess
+
+You can [communicate with subprocesses](https://deno.land/manual@master/examples/subprocess) using [Deno.run](https://doc.deno.land/builtin/stable#Deno.run) (_Note: requires the `--allow-run` flag, not run inside the Deno sandbox).
+
+## Subprocess Exit Status
+
+```typescript
+const cmd = Deno.run({cmd: ['ls']})
+const status = await cmd.status()
+console.log(status) // { success: true, code: 0 }
+
+const cmd = Deno.run({cmd: ['ls', 'foo']})
+const status = await cmd.status()
+console.log(status) // { success: false, code: 2 }
+```
+
 ## Useful Links
 
 - [Deno Manual](https://deno.land/manual)
