@@ -14,9 +14,9 @@ deno completions fish > ~/.config/fish/completions/deno.fish
 
 ## Subprocess
 
-You can [communicate with subprocesses](https://deno.land/manual@master/examples/subprocess) using [Deno.run](https://doc.deno.land/builtin/stable#Deno.run) (_Note: requires the `--allow-run` flag, not run inside the Deno sandbox).
+You can [communicate with subprocesses](https://deno.land/manual@master/examples/subprocess) using [Deno.run](https://doc.deno.land/builtin/stable#Deno.run) (_Note: requires the `--allow-run` flag, not run inside the Deno sandbox_).
 
-## Subprocess Exit Status
+### Subprocess Exit Status
 
 ```typescript
 const cmd = Deno.run({cmd: ['ls']})
