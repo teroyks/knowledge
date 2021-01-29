@@ -21,3 +21,20 @@ $arr1 = [1, 2];
 $arr2 = [3, 4];
 [...$arr1, ...$arr2] == [1, 2, 3, 4];
 ```
+
+## Exception Handling
+
+### Rethrowing Exceptions
+
+When rethrowing an exception (e.g. to cast into a different type), pass the previous exception as an argument to preserve the stack trace (helps with debugging). If you don’t create a new message and code, pass the originals explicitly as the first two parameters (if you use the caught exception as the first parameter, the stack trace is included in the exception message).
+
+```php
+try {
+    // may throw an exception here
+} catch (Exception $e) {
+    // this block is supposed to only thrown a MyException
+    throw new MyException($e->getMessage(), $e->getCode(), $e);
+}
+```
+
+[Example](https://www.tehplayground.com/xBRxbd8rABpRVbUS)
