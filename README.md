@@ -6,7 +6,7 @@ Collection of useful tidbits accumulated over the years. This is my attempt to s
 
 ## Latest Updates
 
-Just testing out some stuff here…
+Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
