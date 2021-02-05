@@ -11,7 +11,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: teroyks/rss-to-readme@master
+      - uses: teroyks/rss-to-readme@draft
         with:
           feed-url: https://github.com/teroyks/knowledge/commits/main.atom
           readme-section: feed
