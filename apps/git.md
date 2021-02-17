@@ -19,6 +19,33 @@ Avoid the `-m` flag – it encourages writing one-line commit messages that are 
 
 - `git branch`
 
+### Show Current Branch
+
+≥ 2.22
+
+```shellsession
+git branch --show-current
+```
+
+Older Git:
+
+```shellsession
+git rev-parse --abbrev-ref HEAD
+```
+
+### Show Current Tracking Branch
+
+```shellsession
+git status -sb | perl -ne '/^##.*\.{3}(.*)/ && print $1;'
+```
+
+### Show Last Merged Branch
+
+```shellsession
+reflog_message=$(git reflog -1)
+echo $reflog_message | cut -d" " -f 4 | sed "s/://"
+```
+
 ## Switch Branches
 
 - `git switch <branch-name>`
