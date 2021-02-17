@@ -38,3 +38,14 @@ try {
 ```
 
 [Example](https://www.tehplayground.com/xBRxbd8rABpRVbUS)
+
+## Version Check
+
+```php
+// bails if PHP version is lower than required
+if (version_compare(PHP_VERSION, '7.0.0', '<')) {
+    return;
+}
+
+// the rest of the code
+```
