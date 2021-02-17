@@ -12,6 +12,22 @@ With keywords:
 k = dict(red=21, green=68, blue=120, alpha=52)
 ```
 
+## Iterate
+
+Keys only:
+
+```python
+for key in d:
+    ...
+```
+
+Keys and values:
+
+```python
+for key, value in d.items():
+   ...
+```
+
 ## Merge Dictionaries
 
 from 3.9
