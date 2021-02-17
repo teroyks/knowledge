@@ -11,4 +11,5 @@ Things that are specific to TypeScript – see [JavaScript](../javascript/) for 
 
 ## References
 
+- [using built-in utility types](https://blog.logrocket.com/using-built-in-utility-types-in-typescript/) – conditional, lookup, and mapped types, generics
 - [TypeScript in React](https://blog.logrocket.com/your-reference-guide-to-using-typescript-in-react/) reference guide
