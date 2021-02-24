@@ -65,6 +65,11 @@ Startup to recovery mode for Apple silicon Macs:
 3. Select the options icon from the startup screen.
 4. Enter the admin password if asked.
 
+[Fallback recovery mode](https://eclecticlight.co/2021/02/20/m1-macs-have-another-hidden-boot-mode/):
+
+1. Turn off the computer.
+2. Double-press and hold down the power button.
+
 ## Touch ID
 
 Use `sudo` with touch ID: add the following line to `/etc/pam.d/sudo`:
