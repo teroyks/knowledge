@@ -12,6 +12,10 @@ Example (fish):
 deno completions fish > ~/.config/fish/completions/deno.fish
 ```
 
+## Script Installer
+
+The [Script installer](https://deno.land/manual/tools/script_installer#script-installer) installs a local script to easily distribute executable code.
+
 ## Subprocess
 
 You can [communicate with subprocesses](https://deno.land/manual@master/examples/subprocess) using [Deno.run](https://doc.deno.land/builtin/stable#Deno.run) (_Note: requires the `--allow-run` flag, not run inside the Deno sandbox_).
