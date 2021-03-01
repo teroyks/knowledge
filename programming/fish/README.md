@@ -2,6 +2,16 @@
 
 Fish if the “friendly, interactive shell”. It's a modern alternative to the more traditional shells such as `bash` and `zsh`.
 
+## Environment
+
+### Edit Path
+
+Append a directory to the path. The `-U´ option makes the setting universal (persists and takes effect in all terminals).
+
+```console
+set -U fish_user_paths $fish_user_paths /usr/local/bin
+```
+
 ## Recipes
 
 ### Command Substitution
