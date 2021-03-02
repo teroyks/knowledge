@@ -24,6 +24,7 @@
 
 ## Notes, Articles, etc
 
+- [Best of Python](https://github.com/ml-tooling/best-of-python) – a curated list of open-source projects grouped into categories, ranked by a project-quality score
 - [working with large datasets](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
 
 ## Examples
