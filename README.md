@@ -10,6 +10,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        🎓 Alfred workflow script to open knowledge base
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e4576a583face4de995edd97e74a33e64474a809)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;61e7d3e79b40e099bda16d17649cd29c929919ca)
+* [
         Merge branch &#39;main&#39; of https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b8b3aa9f1151ffc18a1145f0b91eeec13cc1b585)
 * [
@@ -33,10 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Updating the README!
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;999cf80d0b46d7921a29942722c38a6e574639e1)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;d845864ac4ff968827304af38af901f06e8a5508)
-* [
-        🔧 Check updates from the main branch
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;ec65c6500eac88fbccbec3043b748590af2ffb8d)
 <!--END_SECTION:feed-->
