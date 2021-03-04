@@ -10,6 +10,18 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Merge branch &#39;main&#39; of https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b8b3aa9f1151ffc18a1145f0b91eeec13cc1b585)
+* [
+        🗄 Google font and icon libraries
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;dd2510ae1173b47aab3a7105d184d98cf93b47dd)
+* [
+        🔧 Mac system utilities
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;91b5175a3215622679b5b14c3216dbff15865216)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b647a9ff2babf25b20f41d714fb2ad3c4aeea270)
+* [
         🐍 Link to Best of Python
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a86f42301456d5ec7fb37a3250a8ef795b33cc0b)
 * [
@@ -27,16 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         🔧 Check updates from the main branch
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;ec65c6500eac88fbccbec3043b748590af2ffb8d)
-* [
-        🔧 Use latest release of updates workflow
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a42538e62b809fb7efff3547e60f286b06827bd1)
-* [
-        Add directory to path
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;33b05b7cb69eb41bdd40e77343b430b2be888b7e)
-* [
-        Script installer
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a43d25f5b350df0225879edf071a6c5833cf7686)
-* [
-        Add scheduled events info
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a976caf9024143f36058c98b28be6887491d2c68)
 <!--END_SECTION:feed-->
