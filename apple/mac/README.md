@@ -77,3 +77,10 @@ Use `sudo` with touch ID: add the following line to `/etc/pam.d/sudo`:
 ```shell
 session    required       pam_permit.so
 ```
+
+## Utilities
+
+Some useful utilities and enhancements for system apps
+
+- [Hush](https://oblador.github.io/hush/) – blocks most cookie & privacy nagging screens in Safari
+- [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) – blocks tracking pixels in Apple Mail
