@@ -10,6 +10,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        🔗 Link to BetterTouchTool
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;684bbcb4945c50e44de2b52b2d71f6313c47af38)
+* [
+        🐍 Print dictionary items line by line
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c8045b00601da0be446499666f88a5935cc22a27)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6beb32accf5f78c954cb2f50fe531c9eba769f6d)
+* [
         🎓 Alfred workflow script to open knowledge base
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e4576a583face4de995edd97e74a33e64474a809)
 * [
@@ -30,13 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         🐍 Link to Best of Python
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a86f42301456d5ec7fb37a3250a8ef795b33cc0b)
-* [
-        🔧 Fix latest updates action
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1ce27a762bceb6f0601e7988173108c613ba449b)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;dea47b8a2588336f9cc76424fa80a5038b9b5872)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;999cf80d0b46d7921a29942722c38a6e574639e1)
 <!--END_SECTION:feed-->
