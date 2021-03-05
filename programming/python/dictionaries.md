@@ -44,6 +44,17 @@ a | b # {'foo': 'override', 'bar': 2, 'baz': 3, 'new': True}
 min(my_dict, key=my_dict.get)
 ```
 
+## Print
+
+Print items line by line.
+Unlike `json.dumps`, preserves key types (ie. int key not converted to a string).
+
+```python
+from pprint import pprint as pp
+
+pp(d, width=1)
+```
+
 ## Tuple Keys
 
 Tuples can be used as dictionary keys:
