@@ -1,6 +1,6 @@
 # BetterTouchTool
 
-BetterTouchTool is a Mac app that can customize input devices (remap keyboard shortcuts, mouse gestures, Touchbar, and much more).
+[BetterTouchTool](https://folivora.ai) is a Mac app that can customize input devices (remap keyboard shortcuts, mouse gestures, Touchbar, and much more).
 
 ## Caps Lock as Hyper Key
 
