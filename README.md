@@ -10,6 +10,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        📹 Links to video player &amp; editor apps
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6a2cedf52da5c9de3dd278238df1a60cb33f41f1)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;800e9fc3f2e89c8bb4be71e3c1bcd628179f009c)
+* [
         🔗 Link to BetterTouchTool
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;684bbcb4945c50e44de2b52b2d71f6313c47af38)
 * [
@@ -33,10 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         🔧 Mac system utilities
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;91b5175a3215622679b5b14c3216dbff15865216)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b647a9ff2babf25b20f41d714fb2ad3c4aeea270)
-* [
-        🐍 Link to Best of Python
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a86f42301456d5ec7fb37a3250a8ef795b33cc0b)
 <!--END_SECTION:feed-->
