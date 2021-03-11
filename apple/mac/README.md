@@ -78,6 +78,13 @@ Use `sudo` with touch ID: add the following line to `/etc/pam.d/sudo`:
 session    required       pam_permit.so
 ```
 
+## Software Links
+
+## Video
+
+- [Iina](https://iina.io) – very nice, free (open source) native Mac video player
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) – all-in-one video editing software (free version)
+  
 ## Utilities
 
 Some useful utilities and enhancements for system apps
