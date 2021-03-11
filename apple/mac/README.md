@@ -82,6 +82,7 @@ session    required       pam_permit.so
 
 ## Video
 
+- [HandBrake](https://handbrake.fr/) – a free (open source) utility for converting video
 - [Iina](https://iina.io) – very nice, free (open source) native Mac video player
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) – all-in-one video editing software (free version)
   
