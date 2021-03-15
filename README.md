@@ -10,6 +10,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        🔗 HandBrake
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1354edf372a7558b10bfd1ee44c28cb23e56991d)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a44163634974fc96b5f2e4826a06557428858cd4)
+* [
         📹 Links to video player &amp; editor apps
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6a2cedf52da5c9de3dd278238df1a60cb33f41f1)
 * [
@@ -33,10 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Merge branch &#39;main&#39; of https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b8b3aa9f1151ffc18a1145f0b91eeec13cc1b585)
-* [
-        🗄 Google font and icon libraries
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;dd2510ae1173b47aab3a7105d184d98cf93b47dd)
-* [
-        🔧 Mac system utilities
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;91b5175a3215622679b5b14c3216dbff15865216)
 <!--END_SECTION:feed-->
