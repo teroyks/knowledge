@@ -24,6 +24,12 @@ Example: print out files as a comma-separated list
 paste -s -d, (ls | psub)
 ```
 
+### Empty a File
+
+```console
+true > FILE
+```
+
 ### Random Numbers
 
 ```shellsession
