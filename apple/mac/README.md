@@ -33,6 +33,14 @@ Not really needed, but an even more secure way of erasing a drive:
 
 _(from [the Mac Observer](https://www.macobserver.com/tips/how-to/securely-erase-macs-ssd/))_
 
+### Verify FileVault Recovery Key
+
+```console
+sudo fdesetup validaterecovery
+```
+
+Enter the key when prompted.
+
 ## Share Screen
 
 In Messages, open a chat, click on the round `i` icon, and select either _Share My Screen_ or _Ask to Share Screen_.
@@ -79,6 +87,11 @@ session    required       pam_permit.so
 ```
 
 ## Software Links
+
+
+## Audio
+
+- [Loopback](https://rogueamoeba.com/loopback/) – pass audio from one application to another, pull audio from multiple sources into one virtual device
 
 ## Video
 
