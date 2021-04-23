@@ -36,7 +36,8 @@ pipenv install
 
 # Install developer tools
 
-pipenv install --dev pylint autopep8 pytest
+pipenv install --dev pylint pytest
+pipenv install --dev --pre black
 
 # Create the project structure
 
@@ -48,6 +49,7 @@ mkdir tests
 mkdir .vscode
 cat << EOF > .vscode/settings.json
 {
+    "python.formatting.provider": "black",
     "python.testing.pytestArgs": [
         "tests"
     ],
