@@ -29,3 +29,21 @@ This is secure even if the original path is empty (will default to `.` and leave
 
 `Path` can also check file properties and extract components. See
 [examples](https://gist.github.com/teroyks/eb04baf99d8a921af4f29c51b1b2f347).
+
+## Remove File That May Not Exist
+
+```python
+import contextlib
+from pathlib import Path
+
+my_file = Path("path/to/file")
+
+with contextlib.suppress(FileNotFoundError):
+    my_file.unlink()
+```
+
+≥ 3.8:
+
+```python
+my_file.unlink(missing_ok=True)
+```
