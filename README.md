@@ -10,6 +10,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Fix heading style
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e971fb1ab02a7829f0641a49eeb015d662793316)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0546278833fe47acb6c78d2ff7c85442f84340fa)
+* [
         Align images to the left
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;779e80060841896b466a5cffa0852b2575ec04ee)
 * [
@@ -33,10 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         🔨 Obsidian workflow for Alfred
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;26849b435a6f20844f15b3a26ae70e20ac20c92e)
-* [
-        💁 How to find macOS icon files
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0552fba9c71ac0574d528712d0cd3603c4ab651a)
-* [
-        🔗 Scorecard
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c0f79223f69d90589cf66b9057c589d02c0b561c)
 <!--END_SECTION:feed-->
