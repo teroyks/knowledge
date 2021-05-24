@@ -1,5 +1,11 @@
 # Miscellaneous
 
+## Ergonomy
+
+Ergonomy tips for working, typing, etc.
+
+- Typing Comfortably – a series ([Part 1](https://www.youtube.com/watch?v=rdNfXe0ZPXE), [2](https://www.youtube.com/watch?v=ymqlNExfVMY), [3](https://www.youtube.com/watch?v=L4C2FZnbKPc)) of videos on how to use a computer with minimal stress to your body. (Lessons based on the ergonomy of playing the piano)
+
 ## Interesting Sites
 
 - [Abbreviations.com](https://www.abbreviations.com) – abbreviation directory and search engine
