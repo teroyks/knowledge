@@ -10,6 +10,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Align images to the left
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;779e80060841896b466a5cffa0852b2575ec04ee)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;cc4cdc0974b7b5ff44e15067f7a1f99cee53cdfe)
+* [
         📝 Ecstatic Days blog posts
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;f0c4c856046e5912a8918bfdbdafdc56998cbe31)
 * [
@@ -33,10 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         🔗 Scorecard
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c0f79223f69d90589cf66b9057c589d02c0b561c)
-* [
-        🙈 Ignore Obsidian configuration
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;de36872e8c0f550d897e83b88908207ffd2f7863)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;2c270c55f437597b89c8b551d7ce1a4b6cb36f02)
 <!--END_SECTION:feed-->
