@@ -10,33 +10,33 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
-        🌃 CSS Uniform image sizes
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0a99232e391668eb637cddef40d0f06be44812f1)
+        📝 Ecstatic Days blog posts
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;f0c4c856046e5912a8918bfdbdafdc56998cbe31)
 * [
-        ♿️ Accessible custom CSS checbox
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6f68e746a4c9d55d099aaea47c4487dfe3d88216)
+        🤦‍♀️ AI-generated random faces
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;3de8404d226754b385b0970054655620e3eca77c)
 * [
-        🐍 Use Black as the default formatter
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e1fb7b923319226a330dad16e630d99b4cfb4a96)
+        🐍 IO buffers &amp; file object
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6612c9ec1a9c1883a34b35b427eaef1d06e45d6a)
 * [
-        🐍 Removing a file if it exists
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;d60c3da925dda66388f9df3216b3a80c8c7902af)
+        👩‍⚕️ Ergonomy: typing comfortably
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a9d05ef53d7ec7aff0a5f6cba8e9e4536f6a99b1)
 * [
-        🐍 Click module info
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b74a0e4494fe7c74c54ec57aa07f112c74600ead)
+        💻 Misc. PC stuff
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;792e2c60f50844af5b8bbf97167412b5da24d61e)
 * [
-        ⏲ Focus a form field on page load
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;36025d84885fa2cd27b905c2e7ea2f5029b1e7fa)
+        🔨 Obsidian workflow for Alfred
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;26849b435a6f20844f15b3a26ae70e20ac20c92e)
 * [
-        ℹ Emptying a file in Fish
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b5bf62e7ed84e4e3effda2661779be3115bf6434)
+        💁 How to find macOS icon files
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0552fba9c71ac0574d528712d0cd3603c4ab651a)
 * [
-        🔗 Guides for making knots
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;ff38eebc63b1fd9eed50207994a2325290db91d3)
+        🔗 Scorecard
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c0f79223f69d90589cf66b9057c589d02c0b561c)
 * [
-        ℹ How to verify FileVault recovery key
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;628610a62a5d1904e9e6313115526d38cbff5c69)
+        🙈 Ignore Obsidian configuration
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;de36872e8c0f550d897e83b88908207ffd2f7863)
 * [
-        🔗 Guide to Python data classes
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;ae81f7d7af9444817dd21aec6ac0d33228230f59)
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;2c270c55f437597b89c8b551d7ce1a4b6cb36f02)
 <!--END_SECTION:feed-->
