@@ -1,4 +1,4 @@
-## Global Storytelling
+# Global Storytelling
 
 Nov 5, 2008. Originally published on [jeffvandermeer.com](https://www.jeffvandermeer.com/2008/11/05/global-storytelling/)
 
