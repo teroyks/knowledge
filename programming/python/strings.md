@@ -10,6 +10,11 @@ txt.removesuffix('txt') # 'foo.'
 txt.removeprefix('foo') # '.txt'
 ```
 
+## Streams (File-like IO)
+
+Handle string IO like a file:
+[See buffers](buffers.md)
+
 ## Truncate String
 
 Truncate at the Nth characted, add an ellipsis to a truncated string:

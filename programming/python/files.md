@@ -47,3 +47,7 @@ with contextlib.suppress(FileNotFoundError):
 ```python
 my_file.unlink(missing_ok=True)
 ```
+
+## Streams (File-like IO)
+
+[See buffers](buffers.md)
