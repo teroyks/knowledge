@@ -4,6 +4,12 @@
 
 The official name (and spelling) of the OS is _macOS_ (“mac o-s”, /ˌmækoʊˈɛs/). Until 2016, it was called _Mac OS X_ (“[mac o-s ten](https://support.apple.com/kb/TA22541)”).
 
+### OS Icons
+
+Go to `/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources` to see the OS icon files.
+
+_(from [Six Colors](https://sixcolors.com/post/2021/05/quick-tip-high-quality-mac-icons-are-coming-from-inside-your-mac/))_
+
 ## Files
 
 ### Locking a File
@@ -40,6 +46,25 @@ sudo fdesetup validaterecovery
 ```
 
 Enter the key when prompted.
+
+## Screen Saver
+
+(macOS 11)
+
+If the screen saver is stuck, try the following keystroke sequence to recover (locks the computer, goes to the login screen):
+
+Mac, full-sized keyboard:
+
+- ⌃-⇧-[eject]
+
+Mac, small keyboard:
+
+- ⌃-⇧-[power]
+
+Other keyboards, or if the above doesn’t help:
+
+- ⌃-⌘-Q
+- ⎋ (esc)
 
 ## Share Screen
 
@@ -105,3 +130,4 @@ Some useful utilities and enhancements for system apps
 
 - [Hush](https://oblador.github.io/hush/) – blocks most cookie & privacy nagging screens in Safari
 - [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) – blocks tracking pixels in Apple Mail
+- [Script Debugger](https://latenightsw.com) – AppleScript editor & debugger, includes a free lite version
