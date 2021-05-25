@@ -10,6 +10,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        🔗 PHP The Right Way
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1185134795b6cefc5b288c9cd9885f00c3166413)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;eac6d01d93d9c6964e9ebdd6a36156186eaf39c2)
+* [
         Fix heading style
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e971fb1ab02a7829f0641a49eeb015d662793316)
 * [
@@ -33,10 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         👩‍⚕️ Ergonomy: typing comfortably
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a9d05ef53d7ec7aff0a5f6cba8e9e4536f6a99b1)
-* [
-        💻 Misc. PC stuff
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;792e2c60f50844af5b8bbf97167412b5da24d61e)
-* [
-        🔨 Obsidian workflow for Alfred
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;26849b435a6f20844f15b3a26ae70e20ac20c92e)
 <!--END_SECTION:feed-->
