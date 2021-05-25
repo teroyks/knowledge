@@ -49,3 +49,7 @@ if (version_compare(PHP_VERSION, '7.0.0', '<')) {
 
 // the rest of the code
 ```
+
+## Resources
+
+- [PHP The Right Way](https://phptherightway.com/) – An actively maintained index of best practices
