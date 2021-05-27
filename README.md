@@ -10,6 +10,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        🎶 Filk lyrics
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b8f70aa846645bfa8f41ca251010fcc3c5caca98)
+* [
+        🎨 Just some Markdown formatting
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a340678ddfb51e8c64ebbdd5ed1d96c802b55f7d)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;34dcf7c82f227c63912ce33416089fe14249a580)
+* [
         🔗 PHP The Right Way
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1185134795b6cefc5b288c9cd9885f00c3166413)
 * [
@@ -30,13 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         📝 Ecstatic Days blog posts
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;f0c4c856046e5912a8918bfdbdafdc56998cbe31)
-* [
-        🤦‍♀️ AI-generated random faces
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;3de8404d226754b385b0970054655620e3eca77c)
-* [
-        🐍 IO buffers &amp; file object
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6612c9ec1a9c1883a34b35b427eaef1d06e45d6a)
-* [
-        👩‍⚕️ Ergonomy: typing comfortably
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a9d05ef53d7ec7aff0a5f6cba8e9e4536f6a99b1)
 <!--END_SECTION:feed-->
