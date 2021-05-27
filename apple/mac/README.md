@@ -113,7 +113,6 @@ session    required       pam_permit.so
 
 ## Software Links
 
-
 ## Audio
 
 - [Loopback](https://rogueamoeba.com/loopback/) – pass audio from one application to another, pull audio from multiple sources into one virtual device
@@ -131,3 +130,4 @@ Some useful utilities and enhancements for system apps
 - [Hush](https://oblador.github.io/hush/) – blocks most cookie & privacy nagging screens in Safari
 - [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) – blocks tracking pixels in Apple Mail
 - [Script Debugger](https://latenightsw.com) – AppleScript editor & debugger, includes a free lite version
+- [Unexpectedly](http://s.sudre.free.fr/Software/Unexpectedly/about.html) – a free Mac application that lets you browse and visualize the reports from crashes that happened on your Mac
