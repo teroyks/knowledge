@@ -10,33 +10,33 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
-        🎶 Filk lyrics
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;b8f70aa846645bfa8f41ca251010fcc3c5caca98)
+        Simple Python virtualenv setup
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6c0205ecd2608b6d5217d73bfd23f56c3abc5a45)
 * [
-        🎨 Just some Markdown formatting
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a340678ddfb51e8c64ebbdd5ed1d96c802b55f7d)
+        Add Åcon memories article
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;5014d100aaf008edb6c8311cb0ae7dc80e11089e)
 * [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;34dcf7c82f227c63912ce33416089fe14249a580)
+        Working with subprocesses
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e2f31f3e097860966e0938b04e392b726a08b107)
 * [
-        🔗 PHP The Right Way
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1185134795b6cefc5b288c9cd9885f00c3166413)
+        Link to zip files info
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;8766be604b8ddb8187f6cf8f4e39e8e283ed029a)
 * [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;eac6d01d93d9c6964e9ebdd6a36156186eaf39c2)
+        Print emoji with short names
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;350763c1f71af8b7e786ed26ab19b3f3b92858b7)
 * [
-        Fix heading style
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e971fb1ab02a7829f0641a49eeb015d662793316)
+        Add files to a zip archive
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1df068361d9a84b5c1e2225bc73091fc51d4a688)
 * [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0546278833fe47acb6c78d2ff7c85442f84340fa)
+        Disk Cache &amp; Jellyfish
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;f078b17e4cb3a490a00478f51fe95317ff9da3ea)
 * [
-        Align images to the left
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;779e80060841896b466a5cffa0852b2575ec04ee)
+        Documentation and project setup articles
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;2cf230a377b3ebf9ba80ac1e4884ed0921751385)
 * [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;cc4cdc0974b7b5ff44e15067f7a1f99cee53cdfe)
+        Compile files to .pyc
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;ff536a1ca9fd7d07288666dc2f526c4d68f30429)
 * [
-        📝 Ecstatic Days blog posts
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;f0c4c856046e5912a8918bfdbdafdc56998cbe31)
+        HTTP status with curl
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;380f50bea2f10268868e695b0964f844d7526543)
 <!--END_SECTION:feed-->
