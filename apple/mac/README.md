@@ -145,7 +145,10 @@ session    required       pam_permit.so
 
 Some useful utilities and enhancements for system apps
 
+- [CCleaner](clean up gigabytes of cache files, internet history files, and locate and purge large files) – clean up cache files, internet history files, and locate and purge large files
 - [Hush](https://oblador.github.io/hush/) – blocks most cookie & privacy nagging screens in Safari
 - [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) – blocks tracking pixels in Apple Mail
+- [PowerDirector Essentials](https://www.cyberlink.com/powerdirector-free-download-video-editing-software) – video editor with a generous free version ([recommended](https://www.macworld.com/article/347808/best-free-video-editing-software-for-mac.html))
 - [Script Debugger](https://latenightsw.com) – AppleScript editor & debugger, includes a free lite version
+- [Smartmontools](https://www.smartmontools.org) – control and monitor storage systems (SSD) ([more](https://www.macworld.com/article/334283/how-to-m1-intel-mac-ssd-health-terminal-smartmontools.html))
 - [Unexpectedly](http://s.sudre.free.fr/Software/Unexpectedly/about.html) – a free Mac application that lets you browse and visualize the reports from crashes that happened on your Mac
