@@ -11,5 +11,7 @@ Things that are specific to TypeScript – see [JavaScript](../javascript/) for 
 
 ## References
 
+- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [function syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes) – types, functions, objects, classes, modules, etc.
 - [using built-in utility types](https://blog.logrocket.com/using-built-in-utility-types-in-typescript/) – conditional, lookup, and mapped types, generics
 - [TypeScript in React](https://blog.logrocket.com/your-reference-guide-to-using-typescript-in-react/) reference guide
