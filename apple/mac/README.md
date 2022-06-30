@@ -4,6 +4,20 @@
 
 The official name (and spelling) of the OS is _macOS_ (“mac o-s”, /ˌmækoʊˈɛs/). Until 2016, it was called _Mac OS X_ (“[mac o-s ten](https://support.apple.com/kb/TA22541)”).
 
+### Low Power Mode
+
+Enable/disable via Command line: 
+
+```console
+# enable
+sudo pmset -a lowpowermode 1
+
+# disable
+sudo pmset -a lowpowermode 0
+```
+
+via [OSXDaily](https://osxdaily.com/2022/03/30/enable-low-power-mode-mac-command-line/)
+
 ### OS Icons
 
 Go to `/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources` to see the OS icon files.
