@@ -26,6 +26,9 @@
 
 - [Best of Python](https://github.com/ml-tooling/best-of-python) – a curated list of open-source projects grouped into categories, ranked by a project-quality score
 - [Data Classesin Python](https://realpython.com/python-data-classes/) (Guide)
+- [Generating documentation with Pycco](https://realpython.com/generating-code-documentation-with-pycco/)
+  - auto-generate decent looking code documentation based on docstrings
+- [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) – a comprehensive guide for setting up a python project with all the tooling you might ever want
 - [working with large datasets](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
 
 ## Misc
