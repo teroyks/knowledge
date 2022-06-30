@@ -10,6 +10,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Fix wiki-style links
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;8a307dc3f48be3b641ae2534422f1e9a7256ffc1)
+* [
+        Move file to correct directory
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;16b599a283de7f2c0e90f75519f4cf6f7dffca84)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;914c963fbb7d3ad67fdfe3a50c592e62da719df3)
+* [
         Simple Python virtualenv setup
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6c0205ecd2608b6d5217d73bfd23f56c3abc5a45)
 * [
@@ -30,13 +39,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Disk Cache &amp; Jellyfish
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;f078b17e4cb3a490a00478f51fe95317ff9da3ea)
-* [
-        Documentation and project setup articles
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;2cf230a377b3ebf9ba80ac1e4884ed0921751385)
-* [
-        Compile files to .pyc
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;ff536a1ca9fd7d07288666dc2f526c4d68f30429)
-* [
-        HTTP status with curl
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;380f50bea2f10268868e695b0964f844d7526543)
 <!--END_SECTION:feed-->
