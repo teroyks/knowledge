@@ -1,6 +1,6 @@
 # Python Stuff
 
-- Set up a simple [[python-environment]] for a project
+- Set up a simple [python-environment](./python-environment.md) for a project
 
 ## Libraries
 

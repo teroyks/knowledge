@@ -1,3 +1,3 @@
 # GitLab
 
-[[ci-cd-config|CI/CD configuration]] 
+[CI/CD configuration](./ci-cd-config.md)
