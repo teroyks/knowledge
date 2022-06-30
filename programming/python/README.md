@@ -1,5 +1,7 @@
 # Python Stuff
 
+- Set up a simple [[python-environment]] for a project
+
 ## Libraries
 
 - [Fractions](https://docs.python.org/3.9/library/fractions.html?highlight=fraction) – rational number arithmetic
