@@ -28,6 +28,14 @@
 - [Data Classesin Python](https://realpython.com/python-data-classes/) (Guide)
 - [working with large datasets](https://www.kaggle.com/rohanrao/tutorial-on-reading-large-datasets)
 
+## Misc
+
+### Compile files to .pyc
+
+```python
+python -m compileall -q .
+```
+
 ## Examples
 
 ### Excel (with Pandas)
