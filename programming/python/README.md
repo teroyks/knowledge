@@ -7,6 +7,8 @@
 ## Useful Packages
 
 - [AutoScraper](https://github.com/alirezamika/autoscraper) -- lightweight web scraper
+- [Disk Cache](https://pypi.org/project/diskcache/) -- disk/sqlite-backed key-value store
+- [jellyfish](https://github.com/jamesturk/jellyfish) -- a library for approximate & phonetic matching of strings
 - [PandasGUI](https://github.com/adamerose/pandasgui) -- GUI for analyzing dataframes
 - [pycld2](https://pypi.org/project/pycld2/) -- identify language of a text
 - [Pydantic](https://pydantic-docs.helpmanual.io/usage/models/) -- define data models with types, constraints, and validation
