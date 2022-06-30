@@ -34,6 +34,10 @@ A locked file can’t be renamed or deleted without confirming the operation (Fi
 - in Preview or other apps that support this: choose _Locked_ in file name view
 - `SetFile -a L FILE` in a terminal (lowercase-l to unlock)
 
+### Open/Save
+
+Type `/` in any open/save dialog to open a “Go to Folder” dialog for quick navigation. (Also supports the `~` shortcut for the home directory.)
+
 ## Security
 
 ### Erase an Encrypted Drive
