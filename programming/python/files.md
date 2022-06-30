@@ -51,3 +51,7 @@ my_file.unlink(missing_ok=True)
 ## Streams (File-like IO)
 
 [See buffers](buffers.md)
+
+## Compressed Files
+
+[See zip files](zip-files.md)
