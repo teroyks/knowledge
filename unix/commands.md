@@ -42,3 +42,7 @@ Set both start and end:
 6
 7
 ```
+
+## shasum
+
+Print or Check SHA Checksums
