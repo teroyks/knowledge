@@ -1,5 +1,13 @@
 # String Handling
 
+## Emojis
+
+Print an emoji using a [CLDR short name](https://unicode.org/emoji/charts-12.1/full-emoji-list.html):
+
+```python
+print("\N{SNAKE}")
+```
+
 ## Remove Prefix or Suffix
 
 from 3.9
