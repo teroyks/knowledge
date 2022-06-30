@@ -2,6 +2,22 @@
 
 Probably not very useful, saved here for future reference & inspiration.
 
+## Fetch HTTP Status With Curl
+
+```bash
+function http_status_code {
+    curl --head \
+        --silent \
+        --connect-timeout 5 \
+        --write-out "%{http_code}" \
+        --output /dev/null \
+        "$1"
+}
+
+# call with:
+# http_status_code "$url"
+```
+
 ## Move And Rename Files
 
 When starting with a directory structure like this:
