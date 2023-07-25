@@ -8,6 +8,17 @@ Standard utility that formats its input into multiple columns.
 
 - `column -t -s '|'` -- format fields separated by `|` into a table
 
+## numfmt
+
+Formats numbers between “raw” format, SI, and IEC (1024-based) versions.
+
+Example: format bytes to a human-readable number:
+
+```shellsession
+echo 6574588073 | numfmt --to=iec
+# 6.6G
+```
+
 ## paste
 
 Merges lines of files.
@@ -46,3 +57,11 @@ Set both start and end:
 ## shasum
 
 Print or Check SHA Checksums
+
+## stdbuf
+
+Control buffering. For example: set output to unbuffered for any command (here `grep`):
+
+```shellsession
+stdbuf -o0 grep "pattern"
+```
