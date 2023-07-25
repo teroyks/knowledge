@@ -39,6 +39,12 @@ git rev-parse --abbrev-ref HEAD
 git status -sb | perl -ne '/^##.*\.{3}(.*)/ && print $1;'
 ```
 
+### Show Deleted Files
+
+```shellsession
+git reflog --diff-filter D --name-only
+```
+
 ### Show Last Merged Branch
 
 ```shellsession
@@ -68,6 +74,14 @@ Show line-by-line list of who last updated a file:
 
 ```shellsession
 git blame <file>
+```
+
+### Line Revisions
+
+Example: changes to line 15:
+
+```shellsession
+git log -L15,+1:'path/to/your/file.txt'
 ```
 
 ### Ignore Revisions
