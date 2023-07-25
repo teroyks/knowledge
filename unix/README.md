@@ -23,6 +23,13 @@ Send e-mail with attachment (including binary files) from the command line (Bash
 - hostname -> IP mappings are in `/etc/hosts`
 - look into `/etc/resolv.conf` for DNS settings (on macOS that is not used but points to the right command)
 
+### Fix /etc/hosts
+
+If `/etc/hosts` does not seem to work, the file format might be corrupted. Some things to check:
+
+- file format should be us-ascii (`file -I /etc/hosts`), with Unix line breaks
+- file permissions should be `0644`, and the owner `root`
+
 ## Just Because
 
 These things probably aren’t all that useful, but I’ve written them down just in case someone wants them for inspiration.
