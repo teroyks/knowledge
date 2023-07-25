@@ -12,33 +12,33 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
-        Fix wiki-style links
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;8a307dc3f48be3b641ae2534422f1e9a7256ffc1)
+        Name pronunciation
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;67c72598eea7a1ca0806b558144ac8c7d5e075a1)
 * [
-        Move file to correct directory
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;16b599a283de7f2c0e90f75519f4cf6f7dffca84)
+        MacOS migrations with
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;caeed433f8668349d85310265ca3fb7c2eaa9f0b)
 * [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;914c963fbb7d3ad67fdfe3a50c592e62da719df3)
+        Show deleted files with reflog
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a83447cd3a05e31c55492b669b364873194b746b)
 * [
-        Simple Python virtualenv setup
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;6c0205ecd2608b6d5217d73bfd23f56c3abc5a45)
+        File path handling
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;5c5d35b66908096f8e9ebd7217a302f4da4afb61)
 * [
-        Add Åcon memories article
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;5014d100aaf008edb6c8311cb0ae7dc80e11089e)
+        Collection of web development patterns
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;184ea0aaa82a6b0f14c9dca5b6d738261c646f8a)
 * [
-        Working with subprocesses
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;e2f31f3e097860966e0938b04e392b726a08b107)
+        Fix &#x2F;etc&#x2F;hosts
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;003476aef5ff89687c7846352071c96f7dc0301e)
 * [
-        Link to zip files info
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;8766be604b8ddb8187f6cf8f4e39e8e283ed029a)
+        Format numbers, control buffering
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;9b32ef045b42311c3317787f9486924e35f92394)
 * [
-        Print emoji with short names
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;350763c1f71af8b7e786ed26ab19b3f3b92858b7)
+        More places to visit in Helsinki, Tampere, Turku
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1c055a5d64789ce90165413e2999aad13fb9fa7b)
 * [
-        Add files to a zip archive
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1df068361d9a84b5c1e2225bc73091fc51d4a688)
+        Link to Vite&#x2F;Tailwind&#x2F;etc starter kit
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;882affaf04fe10d12b42c16f36d4b30fa55424b8)
 * [
-        Disk Cache &amp; Jellyfish
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;f078b17e4cb3a490a00478f51fe95317ff9da3ea)
+        Count characters in Rust Strings
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;467e6528b0e4818370042228afa67e12abda0e68)
 <!--END_SECTION:feed-->
