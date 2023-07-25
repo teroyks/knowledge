@@ -30,6 +30,28 @@ This is secure even if the original path is empty (will default to `.` and leave
 `Path` can also check file properties and extract components. See
 [examples](https://gist.github.com/teroyks/eb04baf99d8a921af4f29c51b1b2f347).
 
+### Get Absolute Path
+
+```python
+p = Path(".")
+p.resolve()
+```
+
+### Get Script Path
+
+```python
+str(Path(__file__).resolve().parent)
+```
+
+### Create Directory Path
+
+Create a directory including all missing parents.
+Don’t raise an exception if the directory already exists.
+
+```python
+Path('/abs/path/to/dir').mkdir(parents=True, exist_ok=True)
+```
+
 ## Remove File That May Not Exist
 
 ```python
