@@ -12,6 +12,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Remove directory from local tracking
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;35da7269d2625ecf0f9f51a87382518343848e56)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;029a29bdd50033de7d1d0b92e86713364930005c)
+* [
         Name pronunciation
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;67c72598eea7a1ca0806b558144ac8c7d5e075a1)
 * [
@@ -35,10 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         More places to visit in Helsinki, Tampere, Turku
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1c055a5d64789ce90165413e2999aad13fb9fa7b)
-* [
-        Link to Vite&#x2F;Tailwind&#x2F;etc starter kit
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;882affaf04fe10d12b42c16f36d4b30fa55424b8)
-* [
-        Count characters in Rust Strings
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;467e6528b0e4818370042228afa67e12abda0e68)
 <!--END_SECTION:feed-->
