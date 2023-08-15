@@ -12,6 +12,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Create value-or-null.md
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;179d8b66407d81f340a104bf7c3d2e296910192a)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;7929088b6e73500a038acf50c0f9b0aff5e729a3)
+* [
         Remove directory from local tracking
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;35da7269d2625ecf0f9f51a87382518343848e56)
 * [
@@ -35,10 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Fix &#x2F;etc&#x2F;hosts
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;003476aef5ff89687c7846352071c96f7dc0301e)
-* [
-        Format numbers, control buffering
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;9b32ef045b42311c3317787f9486924e35f92394)
-* [
-        More places to visit in Helsinki, Tampere, Turku
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;1c055a5d64789ce90165413e2999aad13fb9fa7b)
 <!--END_SECTION:feed-->
