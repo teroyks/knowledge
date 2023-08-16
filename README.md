@@ -12,6 +12,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Alfred, your path is fixed!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a262f2f0182fc0093e084d44a7070663fb9d088a)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a29890f54879b71f27e4dfb0c9c274695e8e5f2f)
+* [
         D&#39;oh! Almost forgot Alfred!
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0b6875124012c4b388102678c1990093dcad7737)
 * [
@@ -35,10 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Add placeholder .vimrc file
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c355e6f6f34473869fc81dc477f024cc833a9211)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a09416127addc25653925c181be4e5f7bb3dbdc0)
-* [
-        Create value-or-null.md
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;179d8b66407d81f340a104bf7c3d2e296910192a)
 <!--END_SECTION:feed-->
