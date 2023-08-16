@@ -10,7 +10,7 @@ These are (some of the) things I set up on a new Mac.
   - open source alternative: [Syncthing](https://syncthing.net)
 - [ ] [Nextcloud](https://nextcloud.com) – Dropbox-like file syncing
   - I have purchased the storage [from Hetzner](https://www.hetzner.com/storage/storage-share) but you could run it on your own server yourself if you wanted to
-- [ ] [Alfred](./alfred.md) – My essential productivity multitool
+- [ ] [Alfred](./alfred) – My essential productivity multitool
   - I use Alfred for so many things: app launcher, file finder, snippets, workflows, shortcuts, etc.
   - the free version is basically a souped-up app launcher; you need to purchase the Powerpack to unlock the real goodies
   - [Raycast](https://www.raycast.com) is a similar application, especially for the more Javascript-oriented
