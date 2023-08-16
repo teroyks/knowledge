@@ -12,6 +12,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Add initial Obsidian configuration
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;578b9e4817d87fc04aeeb416780bcbd9fa29fa24)
+* [
+        Add placeholder .vimrc file
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c355e6f6f34473869fc81dc477f024cc833a9211)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a09416127addc25653925c181be4e5f7bb3dbdc0)
+* [
         Create value-or-null.md
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;179d8b66407d81f340a104bf7c3d2e296910192a)
 * [
@@ -32,13 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Show deleted files with reflog
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a83447cd3a05e31c55492b669b364873194b746b)
-* [
-        File path handling
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;5c5d35b66908096f8e9ebd7217a302f4da4afb61)
-* [
-        Collection of web development patterns
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;184ea0aaa82a6b0f14c9dca5b6d738261c646f8a)
-* [
-        Fix &#x2F;etc&#x2F;hosts
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;003476aef5ff89687c7846352071c96f7dc0301e)
 <!--END_SECTION:feed-->
