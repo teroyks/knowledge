@@ -12,8 +12,11 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;80b1fa774117bf7cf917f3d9c29ba05af983ef4a)
+* [
         List some essential software for Mac
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;430db0570a35b7d573e73e17f0daf1b712a844ff)
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;67032d1e7d71b1ecb4ade45de977df2956f15750)
 * [
         Updating the README!
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;8beabebaded76c1d15518d67afbed37c425ef96c)
@@ -38,7 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Updating the README!
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;029a29bdd50033de7d1d0b92e86713364930005c)
-* [
-        Name pronunciation
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;67c72598eea7a1ca0806b558144ac8c7d5e075a1)
 <!--END_SECTION:feed-->
