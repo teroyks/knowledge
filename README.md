@@ -12,6 +12,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        List some essential software for Mac
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;430db0570a35b7d573e73e17f0daf1b712a844ff)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;8beabebaded76c1d15518d67afbed37c425ef96c)
+* [
         Add initial Obsidian configuration
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;578b9e4817d87fc04aeeb416780bcbd9fa29fa24)
 * [
@@ -35,10 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Name pronunciation
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;67c72598eea7a1ca0806b558144ac8c7d5e075a1)
-* [
-        MacOS migrations with
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;caeed433f8668349d85310265ca3fb7c2eaa9f0b)
-* [
-        Show deleted files with reflog
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a83447cd3a05e31c55492b669b364873194b746b)
 <!--END_SECTION:feed-->
