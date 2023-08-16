@@ -12,6 +12,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        D&#39;oh! Almost forgot Alfred!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0b6875124012c4b388102678c1990093dcad7737)
+* [
+        Why I like 1Password
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c801e9a17fb1e54acf26099cec1fe2c3dc1ce108)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;417f5d9b4a089f3462692f8507ba4f2a698e1edf)
+* [
         Updating the README!
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;80b1fa774117bf7cf917f3d9c29ba05af983ef4a)
 * [
@@ -32,13 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Create value-or-null.md
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;179d8b66407d81f340a104bf7c3d2e296910192a)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;7929088b6e73500a038acf50c0f9b0aff5e729a3)
-* [
-        Remove directory from local tracking
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;35da7269d2625ecf0f9f51a87382518343848e56)
-* [
-        Updating the README!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;029a29bdd50033de7d1d0b92e86713364930005c)
 <!--END_SECTION:feed-->
