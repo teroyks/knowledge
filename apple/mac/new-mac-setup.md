@@ -1,0 +1,53 @@
+# New Mac Setup
+
+These are (some of the) things I set up on a new Mac.
+
+- [ ] [1Password](https://1password.com) – password manager
+- [ ] [iTerm2](https://iterm2.com) – better command line shell
+- [ ] [Resilio Sync](https://www.resilio.com/individuals/) – syncs folders directly between computers
+  - `fish` -> `~/.config/fish` – uses the same Fish shell setup on all computers
+  - open source alternative: [Syncthing](https://syncthing.net)
+- [ ] [Nextcloud](https://nextcloud.com) – Dropbox-like file syncing
+  - I have purchased the storage [from Hetzner](https://www.hetzner.com/storage/storage-share) but you could run it on your own server yourself if you wanted to
+- [ ] [Homebrew](https://brew.sh) – Unix-like package manager
+  - Some packages I always install:
+  - [ ] `fish` – a frendlier shell; I use this as my login shell
+  - [ ] `fzf` – a powerful command history & file system regexer
+  - [ ] `coreutils curl git` – prerequisites for `asdf`
+  - [ ] `bat` – better `cat`
+  - [ ] `fd` – better `find`
+  - [ ] `git-delta` – better Git difftool
+  - [ ] `neovim` – my favorite text editor
+  - [ ] `pipx` – run Python apps in isolated environments
+  - [ ] `ripgrep` – better `grep`
+  - [ ] `zoxide` – a handy tool for jumping to regularly used directories
+- [ ] [Obsidian](/apps/obsidian/README.md) – a powerful and infinitely configurable text file–based note taking program
+  - I keep many types of notes in Obsidian, and even manage some text-heavy Git repositories (such as this one) with it
+  - connects the notes with powerful tagging, displays their relations to one another, etc.
+  - a huge plugin ecosystem for (almost) anything you might want to do
+  - for a little bit different, and maybe a more approachable, alternative might be [Logseq](https://logseq.com)
+- [ ] [Setapp](https://setapp.com) – subscription based application manager
+  - Setapp has lots of useful software, from small utilities to full-blown applications, accessible with a single monthly subscription
+- [ ] [Arc](https://arc.net) – a very interesting take on the web browser that has proven handy in many situations
+  - I really like the way Arc handles different user profiles & workspaces
+  - the best browser for keyboard use I’ve come across
+- [ ] [asdf](https://asdf-vm.com) – multiple runtime version manager
+  - Node – `nvm` doesn’t play nicely with Fish
+  - Python – I’ve usually used `pyenv` for handling multiple Python versions, but am testing if asdf would do the job just as well
+- [ ] [BusyCal](https://www.busymac.com/busycal/) – a nicer calendar program
+  - has a handy quick calendar window with natural language input for new events – not quite on par with Fantastical but good enough
+- [ ] [Slack](https://slack.com) – the Mac client is not very good but still better than just using the browser
+- [ ] [Telegram](https://telegram.org) – I don’t use Meta apps (e.g. WhatsApp), but Telegram is a user-friendly alternative when you don’t need secure communications
+  - has nice extra features such as funny stickers
+  - the ability to send a message without a notification sound is really useful when you want to message someone non-urgently without interrupting them (or waking them up)
+- [ ] [Visual Studio Code](https://code.visualstudio.com) – I don’t like using VS Code for work, but for casual editing it is quite nice and has a useful plugin ecosystem
+- Small utilities
+  - [ ] [Bartender](https://www.macbartender.com) – wrangles menu bar icons
+  - [ ] [Mission Control Plus](https://www.fadel.io/missioncontrolplus) – enhances Mission Control with keyboard shortcuts & extra functionality
+    - most often I use this for switching between application windows from the keyboard – works across spaces
+  - [ ] [One Switch](https://fireball.studio/oneswitch) – lots of handy toggle in the menu bar
+    - keep awake & headphone connection toggle are my most used switches
+  - [ ] [Rectangle](https://rectangleapp.com) – I’m still searching for the perfect window manager, but Rectangle is pretty good, and open source
+  - [ ] [SuperKey](https://superkey.app) – maps Caps Lock to a “Hyper” key (⌃⌥⌘⇧ combination), plus some nice keyboard shortcut utilities
+    - If you just want the Hyper key feature, there’s [a free app](https://hyperkey.app) that does just that
+    - BetterTouchTool also has the Hyper key functionality but I’ve found it to be less reliable
