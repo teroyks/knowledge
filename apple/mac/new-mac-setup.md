@@ -22,17 +22,18 @@ These are (some of the) things I set up on a new Mac.
   - [ ] `bat` – better `cat`
   - [ ] `fd` – better `find`
   - [ ] `git-delta` – better Git difftool
+  - [ ] `gron` – a tool that makes JSON greppable
   - [ ] `neovim` – my favorite text editor
   - [ ] `pipx` – run Python apps in isolated environments
   - [ ] `ripgrep` – better `grep`
+  - [ ] `tldr` – simplified alternative to `man` pages
   - [ ] `zoxide` – a handy tool for jumping to regularly used directories
 - [ ] [Obsidian](/apps/obsidian/README.md) – a powerful and infinitely configurable text file–based note taking program
   - I keep many types of notes in Obsidian, and even manage some text-heavy Git repositories (such as this one) with it
   - connects the notes with powerful tagging, displays their relations to one another, etc.
   - a huge plugin ecosystem for (almost) anything you might want to do
   - for a little bit different, and maybe a more approachable, alternative might be [Logseq](https://logseq.com)
-- [ ] [Setapp](https://setapp.com) – subscription based application manager
-  - Setapp has lots of useful software, from small utilities to full-blown applications, accessible with a single monthly subscription
+  - [ ] [Setapp](https://setapp.com) – subscription based application manager - Setapp has lots of useful software, from small utilities to full-blown applications, accessible with a single monthly subscription
 - [ ] [Arc](https://arc.net) – a very interesting take on the web browser that has proven handy in many situations
   - I really like the way Arc handles different user profiles & workspaces
   - the best browser for keyboard use I’ve come across
