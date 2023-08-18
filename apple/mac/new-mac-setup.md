@@ -33,7 +33,7 @@ These are (some of the) things I set up on a new Mac.
   - connects the notes with powerful tagging, displays their relations to one another, etc.
   - a huge plugin ecosystem for (almost) anything you might want to do
   - for a little bit different, and maybe a more approachable, alternative might be [Logseq](https://logseq.com)
-  - [ ] [Setapp](https://setapp.com) – subscription based application manager - Setapp has lots of useful software, from small utilities to full-blown applications, accessible with a single monthly subscription
+- [ ] [Setapp](https://setapp.com) – subscription based application manager - Setapp has lots of useful software, from small utilities to full-blown applications, accessible with a single monthly subscription
 - [ ] [Arc](https://arc.net) – a very interesting take on the web browser that has proven handy in many situations
   - I really like the way Arc handles different user profiles & workspaces
   - the best browser for keyboard use I’ve come across
