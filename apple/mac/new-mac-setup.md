@@ -49,6 +49,7 @@ These are (some of the) things I set up on a new Mac.
 - [ ] [Visual Studio Code](https://code.visualstudio.com) – I don’t like using VS Code for work, but for casual editing it is quite nice and has a useful plugin ecosystem
 - Small utilities
   - [ ] [Bartender](https://www.macbartender.com) – wrangles menu bar icons
+    - Always show: BusyCal, Rectangle, One Switch, Push Mic Control, Bluetooth, Wifi, Battery
   - [ ] [Mission Control Plus](https://www.fadel.io/missioncontrolplus) – enhances Mission Control with keyboard shortcuts & extra functionality
     - most often I use this for switching between application windows from the keyboard – works across spaces
   - [ ] [One Switch](https://fireball.studio/oneswitch) – lots of handy toggle in the menu bar
