@@ -12,6 +12,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Merge pull request #2 from teroyks/test
+    ](https://github.com/teroyks/knowledge/commit/21d18dc2604a096d5193d61a1f93c6b6825c8bad)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/8f6325ca31a514b58c1375816a0de1ac3be2508b)
+* [
+        Update updates.yml
+    ](https://github.com/teroyks/knowledge/commit/bef7cce38f5b78d76e26f3f8f753f9203978820e)
+* [
         Updating the README!
     ](https://github.com/teroyks/knowledge/commit/f7dc1da2093da81d256428db85a8944abe6a6a0b)
 * [
@@ -32,13 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Add Push Mic Control to Mac apps
     ](https://github.com/teroyks/knowledge/commit/199cf0115991c0982d3566289047191253fc2189)
-* [
-        Add gron & tldr
-    ](https://github.com/teroyks/knowledge/commit/27a54d84206eb5eed1c2c85366c85efa686a2599)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/8be81aad2e7c82bb7e1902444845f207ce7e0cff)
-* [
-        Alfred, your path is fixed!
-    ](https://github.com/teroyks/knowledge/commit/a262f2f0182fc0093e084d44a7070663fb9d088a)
 <!--END_SECTION:feed-->
