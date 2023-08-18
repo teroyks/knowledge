@@ -53,6 +53,9 @@ These are (some of the) things I set up on a new Mac.
     - most often I use this for switching between application windows from the keyboard – works across spaces
   - [ ] [One Switch](https://fireball.studio/oneswitch) – lots of handy toggle in the menu bar
     - keep awake & headphone connection toggle are my most used switches
+  - [ ] [Push Mic Control](https://apps.apple.com/us/app/push-mic-control/id1155850258?mt=12) – push to talk for the Mac microphone
+    - I like to keep the microphone always off unless I keep the `fn` key pressed
+    - This way, I don’t have to remember to do anything when joining a call, and background noises, coughing, etc. is not audible to others
   - [ ] [Rectangle](https://rectangleapp.com) – I’m still searching for the perfect window manager, but Rectangle is pretty good, and open source
   - [ ] [SuperKey](https://superkey.app) – maps Caps Lock to a “Hyper” key (⌃⌥⌘⇧ combination), plus some nice keyboard shortcut utilities
     - If you just want the Hyper key feature, there’s [a free app](https://hyperkey.app) that does just that
