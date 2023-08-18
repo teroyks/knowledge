@@ -12,6 +12,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Interface with system clipboard
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;45f490100f32de258d10951571657f6d7c5a1091)
+* [
+        Updating the README!
+    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;fc29764ac103354c28931e71d3c495af1631ad25)
+* [
         Add a few basic VIm config settings
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;7406455a72aad2acb56efcc1eaecdee974fef438)
 * [
@@ -35,10 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Updating the README!
     ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;a29890f54879b71f27e4dfb0c9c274695e8e5f2f)
-* [
-        D&#39;oh! Almost forgot Alfred!
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;0b6875124012c4b388102678c1990093dcad7737)
-* [
-        Why I like 1Password
-    ](https:&#x2F;&#x2F;github.com&#x2F;teroyks&#x2F;knowledge&#x2F;commit&#x2F;c801e9a17fb1e54acf26099cec1fe2c3dc1ce108)
 <!--END_SECTION:feed-->
