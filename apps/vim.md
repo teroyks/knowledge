@@ -10,6 +10,11 @@ Insert current file name into the file (in insert mode):
 ⌃r %
 ```
 
+## System Clipboard
+
+- `"*y` – yank selection to system clipboard
+- `"*p` – paste from system clipboard
+
 ## .vimrc
 
 A few things to include in the `.vimrc` file.
