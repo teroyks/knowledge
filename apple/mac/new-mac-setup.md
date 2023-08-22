@@ -63,3 +63,9 @@ These are (some of the) things I set up on a new Mac.
   - [ ] [SuperKey](https://superkey.app) – maps Caps Lock to a “Hyper” key (⌃⌥⌘⇧ combination), plus some nice keyboard shortcut utilities
     - If you just want the Hyper key feature, there’s [a free app](https://hyperkey.app) that does just that
     - BetterTouchTool also has the Hyper key functionality but I’ve found it to be less reliable
+
+Some other often used programs (that I don’t necessarily install everywhere):
+
+- [ ] [MindNode](https://www.mindnode.com/) – I like mind mapping for outlining, planning and taking notes, and MindNode is the nicest application for it that I’ve come across so far
+- [ ] [Notion](https://www.notion.so/) – Miscellaneous data lives here, especially if it is not well-suited to just a notes format; also handy for shared projects
+- [ ] [Plex](https://www.plex.tv/) media server – for watching saved movies and tv programs
