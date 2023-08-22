@@ -23,6 +23,7 @@ These are (some of the) things I set up on a new Mac.
   - [ ] `fd` – better `find`
   - [ ] `git-delta` – better Git difftool
   - [ ] `gron` – a tool that makes JSON greppable
+  - [ ] `jello` – filter JSON: like `jq` but with Python syntax
   - [ ] `neovim` – my favorite text editor
   - [ ] `pipx` – run Python apps in isolated environments
   - [ ] `ripgrep` – better `grep`
@@ -50,6 +51,7 @@ These are (some of the) things I set up on a new Mac.
 - Small utilities
   - [ ] [Bartender](https://www.macbartender.com) – wrangles menu bar icons
     - Always show: BusyCal, Rectangle, One Switch, Push Mic Control, Bluetooth, Wifi, Battery
+  - [ ] [KeyCastr](https://github.com/keycastr/keycastr) – show key presses on scree  n
   - [ ] [Mission Control Plus](https://www.fadel.io/missioncontrolplus) – enhances Mission Control with keyboard shortcuts & extra functionality
     - most often I use this for switching between application windows from the keyboard – works across spaces
   - [ ] [One Switch](https://fireball.studio/oneswitch) – lots of handy toggle in the menu bar
