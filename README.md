@@ -12,6 +12,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Add a couple of optional applications
+    ](https://github.com/teroyks/knowledge/commit/0dc3b2106fd2af10f338d89879890a947d825323)
+* [
+        Add jello to Homebrew packages
+    ](https://github.com/teroyks/knowledge/commit/9514496ef94f1007c66c9431026b29b8021918c4)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/637cf765533fbc9ef2c48bd4415a48944ee96881)
+* [
         Merge pull request #2 from teroyks/test
     ](https://github.com/teroyks/knowledge/commit/21d18dc2604a096d5193d61a1f93c6b6825c8bad)
 * [
@@ -32,13 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Add a few basic VIm config settings
     ](https://github.com/teroyks/knowledge/commit/7406455a72aad2acb56efcc1eaecdee974fef438)
-* [
-        Fix indentation
-    ](https://github.com/teroyks/knowledge/commit/ebc956a23f1a78c26014e10c8f45796f00d0bd7d)
-* [
-        List Bartender always-show apps
-    ](https://github.com/teroyks/knowledge/commit/b76e82f1eabe183d415e5c5bd1e70966881275bd)
-* [
-        Add Push Mic Control to Mac apps
-    ](https://github.com/teroyks/knowledge/commit/199cf0115991c0982d3566289047191253fc2189)
 <!--END_SECTION:feed-->
