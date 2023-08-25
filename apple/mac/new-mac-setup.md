@@ -28,6 +28,7 @@ These are (some of the) things I set up on a new Mac.
   - [ ] `pipx` – run Python apps in isolated environments
   - [ ] `ripgrep` – better `grep`
   - [ ] `tldr` – simplified alternative to `man` pages
+  - [ ] `tree` – display directories as trees
   - [ ] `zoxide` – a handy tool for jumping to regularly used directories
 - [ ] [Obsidian](/apps/obsidian/README.md) – a powerful and infinitely configurable text file–based note taking program
   - I keep many types of notes in Obsidian, and even manage some text-heavy Git repositories (such as this one) with it
