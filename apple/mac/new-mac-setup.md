@@ -4,7 +4,7 @@ These are (some of the) things I set up on a new Mac.
 
 - [ ] [1Password](https://1password.com) – password manager
   - I’ve tried many different password managers, but they all seem more limited and awkward to use than 1Password (even after they, sadly, stopped developing the native Mac version)
-- [ ] [iTerm2](https://iterm2.com) – better command line shell
+- [ ] [iTerm2](/apps/iterm2.md) – better command line shell
 - [ ] [Resilio Sync](https://www.resilio.com/individuals/) – syncs folders directly between computers
   - `fish` -> `~/.config/fish` – uses the same Fish shell setup on all computers
   - open source alternative: [Syncthing](https://syncthing.net)
