@@ -12,6 +12,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        iTerm2 configuration
+    ](https://github.com/teroyks/knowledge/commit/ca8fa09b5e8a1ff30e7ba69e25c47f565a34229f)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/08fd64b391df6a3a3e144bbe3a104853eeebc93b)
+* [
         Add a couple of optional applications
     ](https://github.com/teroyks/knowledge/commit/0dc3b2106fd2af10f338d89879890a947d825323)
 * [
@@ -35,10 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Interface with system clipboard
     ](https://github.com/teroyks/knowledge/commit/45f490100f32de258d10951571657f6d7c5a1091)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/fc29764ac103354c28931e71d3c495af1631ad25)
-* [
-        Add a few basic VIm config settings
-    ](https://github.com/teroyks/knowledge/commit/7406455a72aad2acb56efcc1eaecdee974fef438)
 <!--END_SECTION:feed-->
