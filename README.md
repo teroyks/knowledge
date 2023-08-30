@@ -12,6 +12,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Add `shellcheck`
+    ](https://github.com/teroyks/knowledge/commit/b15341ccbf9b3079b838ba23151854b25181512e)
+* [
+        Add 'tree' utility
+    ](https://github.com/teroyks/knowledge/commit/8a2d2714c80e93e11765e8b00efee3d5457b4aa2)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/672770c2c130f70c1165d261f11f801f2051c61d)
+* [
         iTerm2 configuration
     ](https://github.com/teroyks/knowledge/commit/ca8fa09b5e8a1ff30e7ba69e25c47f565a34229f)
 * [
@@ -32,13 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Updating the README!
     ](https://github.com/teroyks/knowledge/commit/8f6325ca31a514b58c1375816a0de1ac3be2508b)
-* [
-        Update updates.yml
-    ](https://github.com/teroyks/knowledge/commit/bef7cce38f5b78d76e26f3f8f753f9203978820e)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/f7dc1da2093da81d256428db85a8944abe6a6a0b)
-* [
-        Interface with system clipboard
-    ](https://github.com/teroyks/knowledge/commit/45f490100f32de258d10951571657f6d7c5a1091)
 <!--END_SECTION:feed-->
