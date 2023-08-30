@@ -27,6 +27,7 @@ These are (some of the) things I set up on a new Mac.
   - [ ] `neovim` – my favorite text editor
   - [ ] `pipx` – run Python apps in isolated environments
   - [ ] `ripgrep` – better `grep`
+  - [ ] `shellcheck` – a shell script static analysis tool
   - [ ] `tldr` – simplified alternative to `man` pages
   - [ ] `tree` – display directories as trees
   - [ ] `zoxide` – a handy tool for jumping to regularly used directories
