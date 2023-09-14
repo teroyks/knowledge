@@ -49,6 +49,7 @@ These are (some of the) things I set up on a new Mac.
 - [ ] [Telegram](https://telegram.org) – I don’t use Meta apps (e.g. WhatsApp), but Telegram is a user-friendly alternative when you don’t need secure communications
   - has nice extra features such as funny stickers
   - the ability to send a message without a notification sound is really useful when you want to message someone non-urgently without interrupting them (or waking them up)
+- [ ] [Iina](https://iina.io) – a lightweight and versatile open source media player
 - [ ] [Visual Studio Code](https://code.visualstudio.com) – I don’t like using VS Code for work, but for casual editing it is quite nice and has a useful plugin ecosystem
 - Small utilities
   - [ ] [Bartender](https://www.macbartender.com) – wrangles menu bar icons
@@ -68,6 +69,8 @@ These are (some of the) things I set up on a new Mac.
 
 Some other often used programs (that I don’t necessarily install everywhere):
 
+- [ ] [Dash](https://kapeli.com/dash) – Handy programming reference, works also offline
+- [ ] [Jump Desktop](https://www.jumpdesktop.com/) – Easy screen sharing with remote machines
 - [ ] [MindNode](https://www.mindnode.com/) – I like mind mapping for outlining, planning and taking notes, and MindNode is the nicest application for it that I’ve come across so far
 - [ ] [Notion](https://www.notion.so/) – Miscellaneous data lives here, especially if it is not well-suited to just a notes format; also handy for shared projects
 - [ ] [Plex](https://www.plex.tv/) media server – for watching saved movies and tv programs
