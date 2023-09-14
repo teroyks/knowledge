@@ -26,3 +26,11 @@ These are some of the settings I like to configure for my Macs. Some are done wi
 - Hush: closes cookie notifications etc.
 - JSON Peep: view JSON in a readable format
 - StopTheMadness: disables web page shenanigans (such as “prevent copying”)
+
+## Terminal
+
+- Command: `/bin/zsh`
+  - my login shell is [`fish`](/programming/fish/) and my default terminal is [iTerm2](/apps/iterm2.md)
+  - I use Terminal as the “backup/default” Mac terminal
+- Profiles > Keyboard > Use option as Meta key
+  - For example, ⌥⌫ deletes the previous word with this setup
