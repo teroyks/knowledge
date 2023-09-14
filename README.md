@@ -12,6 +12,21 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Howto Launchctl
+    ](https://github.com/teroyks/knowledge/commit/47b9bf78a22f45cede8d82144599fe66d165e4d4)
+* [
+        Add Iina, Dash, Jump Desktop
+    ](https://github.com/teroyks/knowledge/commit/66d8317cbc3971e02d5a3b29426c91144c851609)
+* [
+        Terminal setup
+    ](https://github.com/teroyks/knowledge/commit/5d6636d9783a0b765347460c807b34eb3d8aa710)
+* [
+        What distro am I using?
+    ](https://github.com/teroyks/knowledge/commit/142c5cc367b580f7456a90e579ce27d4403d31a1)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/b02f326ac1b40a64fe29a1eba47f61d15ba97373)
+* [
         Add `shellcheck`
     ](https://github.com/teroyks/knowledge/commit/b15341ccbf9b3079b838ba23151854b25181512e)
 * [
@@ -26,19 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Updating the README!
     ](https://github.com/teroyks/knowledge/commit/08fd64b391df6a3a3e144bbe3a104853eeebc93b)
-* [
-        Add a couple of optional applications
-    ](https://github.com/teroyks/knowledge/commit/0dc3b2106fd2af10f338d89879890a947d825323)
-* [
-        Add jello to Homebrew packages
-    ](https://github.com/teroyks/knowledge/commit/9514496ef94f1007c66c9431026b29b8021918c4)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/637cf765533fbc9ef2c48bd4415a48944ee96881)
-* [
-        Merge pull request #2 from teroyks/test
-    ](https://github.com/teroyks/knowledge/commit/21d18dc2604a096d5193d61a1f93c6b6825c8bad)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/8f6325ca31a514b58c1375816a0de1ac3be2508b)
 <!--END_SECTION:feed-->
