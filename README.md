@@ -24,9 +24,6 @@ Just testing out some stuff here… (still fiddling…)
         What distro am I using?
     ](https://github.com/teroyks/knowledge/commit/142c5cc367b580f7456a90e579ce27d4403d31a1)
 * [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/b02f326ac1b40a64fe29a1eba47f61d15ba97373)
-* [
         Add `shellcheck`
     ](https://github.com/teroyks/knowledge/commit/b15341ccbf9b3079b838ba23151854b25181512e)
 * [
