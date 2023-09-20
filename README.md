@@ -12,6 +12,24 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Add Soulver to Mac apps
+    ](https://github.com/teroyks/knowledge/commit/5a4b242e67e540bda53e6b5f7110596fe99fe362)
+* [
+        Use Hack in iTerm2
+    ](https://github.com/teroyks/knowledge/commit/5a5d239b65008c6a8173c5287655c6e213a97a82)
+* [
+        Run launchctl job immediately
+    ](https://github.com/teroyks/knowledge/commit/02930de0435f55487b770d0416faa4defab63177)
+* [
+        Set fast haptic touch
+    ](https://github.com/teroyks/knowledge/commit/4860e2dbd5aee176b224ef72fa63cb66797690a5)
+* [
+        Remove update message
+    ](https://github.com/teroyks/knowledge/commit/48a93b6326aa5e1f6979d846eb3081a04a25df2b)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/30903232f8223136110b689458d600c3fd7a16a6)
+* [
         Howto Launchctl
     ](https://github.com/teroyks/knowledge/commit/47b9bf78a22f45cede8d82144599fe66d165e4d4)
 * [
@@ -23,19 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         What distro am I using?
     ](https://github.com/teroyks/knowledge/commit/142c5cc367b580f7456a90e579ce27d4403d31a1)
-* [
-        Add `shellcheck`
-    ](https://github.com/teroyks/knowledge/commit/b15341ccbf9b3079b838ba23151854b25181512e)
-* [
-        Add 'tree' utility
-    ](https://github.com/teroyks/knowledge/commit/8a2d2714c80e93e11765e8b00efee3d5457b4aa2)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/672770c2c130f70c1165d261f11f801f2051c61d)
-* [
-        iTerm2 configuration
-    ](https://github.com/teroyks/knowledge/commit/ca8fa09b5e8a1ff30e7ba69e25c47f565a34229f)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/08fd64b391df6a3a3e144bbe3a104853eeebc93b)
 <!--END_SECTION:feed-->
