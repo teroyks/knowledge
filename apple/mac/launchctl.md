@@ -10,3 +10,9 @@
 ```shell
 launchctl list
 ```
+
+## Run Job Immediately
+
+```shell
+launchctl start {path/to/plist-file/without/.plist}
+```
