@@ -63,6 +63,8 @@ These are (some of the) things I set up on a new Mac.
     - I like to keep the microphone always off unless I keep the `fn` key pressed
     - This way, I don’t have to remember to do anything when joining a call, and background noises, coughing, etc. is not audible to others
   - [ ] [Rectangle](https://rectangleapp.com) – I’m still searching for the perfect window manager, but Rectangle is pretty good, and open source
+  - [ ] [Soulver](https://soulver.app) – Intelligent notepad calculator app
+    - With good Alfred integration to do calculations & conversion directly from the prompt
   - [ ] [SuperKey](https://superkey.app) – maps Caps Lock to a “Hyper” key (⌃⌥⌘⇧ combination), plus some nice keyboard shortcut utilities
     - If you just want the Hyper key feature, there’s [a free app](https://hyperkey.app) that does just that
     - BetterTouchTool also has the Hyper key functionality but I’ve found it to be less reliable
