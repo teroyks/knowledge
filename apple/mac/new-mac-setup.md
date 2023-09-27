@@ -73,6 +73,7 @@ Some other often used programs (that I don’t necessarily install everywhere):
 
 - [ ] [Dash](https://kapeli.com/dash) – Handy programming reference, works also offline
 - [ ] [Jump Desktop](https://www.jumpdesktop.com/) – Easy screen sharing with remote machines
+- [ ] [LaunchControl](https://www.soma-zone.com/LaunchControl/) – GUI that makes managing services much nicer than editing plist XML files and messing around with `launchctl`.
 - [ ] [MindNode](https://www.mindnode.com/) – I like mind mapping for outlining, planning and taking notes, and MindNode is the nicest application for it that I’ve come across so far
 - [ ] [Notion](https://www.notion.so/) – Miscellaneous data lives here, especially if it is not well-suited to just a notes format; also handy for shared projects
 - [ ] [Plex](https://www.plex.tv/) media server – for watching saved movies and tv programs
