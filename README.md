@@ -12,6 +12,18 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        nl -- line numbering filter
+    ](https://github.com/teroyks/knowledge/commit/d4559db6f7f983b644efd28b5423bf4032103f1f)
+* [
+        Camera, password, tracking settings
+    ](https://github.com/teroyks/knowledge/commit/62cdcc8ec1bb062e5e204d51fd02a3ab04eed0cd)
+* [
+        LaunchControl: manage system services
+    ](https://github.com/teroyks/knowledge/commit/56fd81facfdef48a982590221617095a1645b40b)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/f7e48add4c5f8f4cea87e6bb033b1f8a207283cc)
+* [
         Add Soulver to Mac apps
     ](https://github.com/teroyks/knowledge/commit/5a4b242e67e540bda53e6b5f7110596fe99fe362)
 * [
@@ -29,16 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Updating the README!
     ](https://github.com/teroyks/knowledge/commit/30903232f8223136110b689458d600c3fd7a16a6)
-* [
-        Howto Launchctl
-    ](https://github.com/teroyks/knowledge/commit/47b9bf78a22f45cede8d82144599fe66d165e4d4)
-* [
-        Add Iina, Dash, Jump Desktop
-    ](https://github.com/teroyks/knowledge/commit/66d8317cbc3971e02d5a3b29426c91144c851609)
-* [
-        Terminal setup
-    ](https://github.com/teroyks/knowledge/commit/5d6636d9783a0b765347460c807b34eb3d8aa710)
-* [
-        What distro am I using?
-    ](https://github.com/teroyks/knowledge/commit/142c5cc367b580f7456a90e579ce27d4403d31a1)
 <!--END_SECTION:feed-->
