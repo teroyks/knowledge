@@ -16,7 +16,8 @@ The special Hotkey Window is a handy temporary window that pops up when you need
 
 These settings need to be set separately for each profile.
 
-- Font > Hack (nerd font)
+- Colors > Color Presets > Pastel (Dark) – more legible than the devault dark theme
+- Text > Font > Hack (nerd font)
 - Window > Transparency: 20
 - Window > Blur: 5
 - Window > Use transparency
