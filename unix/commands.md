@@ -14,9 +14,9 @@ Line numbering filter – pipe text to it to number the lines.
 
 ```shell
 $ echo -e "foo\nbar\nbaz" | nl
-     1	foo
-     2	bar
-     3	baz
+     1    foo
+     2    bar
+     3    baz
 ```
 
 ## numfmt
