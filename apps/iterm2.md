@@ -20,7 +20,10 @@ These settings need to be set separately for each profile.
 - Text > Font > Hack (nerd font)
 - Window > Transparency: 20
 - Window > Blur: 5
-- Window > Use transparency
+- Window > Settings for New Windows
+  - Columns: 120
+  - Rows: 50
+  - Use transparency
 
 ## Keyboard
 
