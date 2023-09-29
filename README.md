@@ -12,6 +12,18 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Set new window size
+    ](https://github.com/teroyks/knowledge/commit/28c0ec7b4f9243141cc09182144c7b1494920aef)
+* [
+        iTerm2 color preset
+    ](https://github.com/teroyks/knowledge/commit/fbed69e0ce87d64fc20cbf2b43682fbd4f3dcbe7)
+* [
+        Fix linting issues
+    ](https://github.com/teroyks/knowledge/commit/34f8b3ad0c0e598d8e5311cda52ff44e316f1530)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/a1129d92d3314b33bbf45d83cffb75963d992541)
+* [
         nl -- line numbering filter
     ](https://github.com/teroyks/knowledge/commit/d4559db6f7f983b644efd28b5423bf4032103f1f)
 * [
@@ -29,16 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Use Hack in iTerm2
     ](https://github.com/teroyks/knowledge/commit/5a5d239b65008c6a8173c5287655c6e213a97a82)
-* [
-        Run launchctl job immediately
-    ](https://github.com/teroyks/knowledge/commit/02930de0435f55487b770d0416faa4defab63177)
-* [
-        Set fast haptic touch
-    ](https://github.com/teroyks/knowledge/commit/4860e2dbd5aee176b224ef72fa63cb66797690a5)
-* [
-        Remove update message
-    ](https://github.com/teroyks/knowledge/commit/48a93b6326aa5e1f6979d846eb3081a04a25df2b)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/30903232f8223136110b689458d600c3fd7a16a6)
 <!--END_SECTION:feed-->
