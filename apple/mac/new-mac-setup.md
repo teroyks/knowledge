@@ -26,6 +26,7 @@ These are (some of the) things I set up on a new Mac.
   - [ ] `jello` – filter JSON: like `jq` but with Python syntax
   - [ ] `neovim` – my favorite text editor
   - [ ] `pipx` – run Python apps in isolated environments
+    - [ ] `piplexed` – check for outdated `pipx` packages
   - [ ] `ripgrep` – better `grep`
   - [ ] `shellcheck` – a shell script static analysis tool
   - [ ] `tldr` – simplified alternative to `man` pages
