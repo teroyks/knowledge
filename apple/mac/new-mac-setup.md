@@ -24,6 +24,7 @@ These are (some of the) things I set up on a new Mac.
   - [ ] `git-delta` – better Git difftool
   - [ ] `gron` – a tool that makes JSON greppable
   - [ ] `jello` – filter JSON: like `jq` but with Python syntax
+  - [ ] `jless` – a command-line JSON viewer
   - [ ] `neovim` – my favorite text editor
   - [ ] `pipx` – run Python apps in isolated environments
     - [ ] `piplexed` – check for outdated `pipx` packages
