@@ -10,10 +10,14 @@ These are some of the settings I like to configure for my Macs. Some are done wi
 - ⇧⌃Space: Open Fantastical Mini Window
 - ⇧⌥Space: Spotlight Search
 - ✧C: Toggle Caps Lock
-- ✧S: Start Screen Saver
 - ✧V: Show Pastebot Clipboard
 - ⇧⌥⌘←: Move Window Left
 - ⇧⌥⌘→: Move Window Right
+
+### Rectangle
+
+- ⌃⌘←: Move Left
+- ⌃⌘→: Move Right
 
 ## Safari
 
