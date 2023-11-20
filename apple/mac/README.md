@@ -6,7 +6,7 @@ The official name (and spelling) of the OS is _macOS_ (“mac o-s”, /ˌmækoʊ
 
 ### Low Power Mode
 
-Enable/disable via Command line: 
+Enable/disable via Command line:
 
 ```console
 # enable
@@ -134,6 +134,7 @@ session    required       pam_permit.so
 ## Audio
 
 - [Loopback](https://rogueamoeba.com/loopback/) – pass audio from one application to another, pull audio from multiple sources into one virtual device
+- [NoTunes](https://github.com/tombonez/noTunes) – prevent Apple Music from launching (e.g. when connecting Bluetooth headphones, or pressing the play/pause key)
 
 ## Video
 
