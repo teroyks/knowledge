@@ -31,6 +31,7 @@
   - VS Code setup (todo: add [Black](https://marcobelo.medium.com/setting-up-python-black-on-visual-studio-code-5318eba4cd00))
 - [bpython](https://bpython-interpreter.org) – “fancy interface” to Python: syntax highlighting, autocomplete, parameter list, undo last command, etc.
 - [Nuitka](https://nuitka.net/pages/overview.html) – compiles a Python app to an executable (or distributable)
+- [Refurb](https://github.com/dosisod/refurb) – modernize Python codebases
 
 ## Notes, Articles, etc
 
