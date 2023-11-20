@@ -12,33 +12,33 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
-        Set new window size
-    ](https://github.com/teroyks/knowledge/commit/28c0ec7b4f9243141cc09182144c7b1494920aef)
+        Source another completion file
+    ](https://github.com/teroyks/knowledge/commit/53ad81cc53bbf7b6595de4c69dc4e6ddc35b0f78)
 * [
-        iTerm2 color preset
-    ](https://github.com/teroyks/knowledge/commit/fbed69e0ce87d64fc20cbf2b43682fbd4f3dcbe7)
+        Mention Refurb
+    ](https://github.com/teroyks/knowledge/commit/2c9a990d9f5855057ade7ab78b0cbbafdb6be9cc)
 * [
-        Fix linting issues
-    ](https://github.com/teroyks/knowledge/commit/34f8b3ad0c0e598d8e5311cda52ff44e316f1530)
+        Add Vivaldi
+    ](https://github.com/teroyks/knowledge/commit/332cd85fdef756f319217a060c1966cc3f5b64ee)
 * [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/a1129d92d3314b33bbf45d83cffb75963d992541)
+        Search Notes workflow
+    ](https://github.com/teroyks/knowledge/commit/5b5244ffb8e9a2cd54ee05afe88c0b3b6a7d55cd)
 * [
-        nl -- line numbering filter
-    ](https://github.com/teroyks/knowledge/commit/d4559db6f7f983b644efd28b5423bf4032103f1f)
+        Control Center Settings, Consent-o-Matic
+    ](https://github.com/teroyks/knowledge/commit/32680d6ea1252f6251421f8ad6b6013d74e692d3)
 * [
-        Camera, password, tracking settings
-    ](https://github.com/teroyks/knowledge/commit/62cdcc8ec1bb062e5e204d51fd02a3ab04eed0cd)
+        Add NoTunes
+    ](https://github.com/teroyks/knowledge/commit/4d461553103ca845747154f6cd95113774bda680)
 * [
-        LaunchControl: manage system services
-    ](https://github.com/teroyks/knowledge/commit/56fd81facfdef48a982590221617095a1645b40b)
+        Remove keyboard shortcuts toggle
+    ](https://github.com/teroyks/knowledge/commit/a5965752d849f61ce0f8b6a7ec5a57df0975e093)
 * [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/f7e48add4c5f8f4cea87e6bb033b1f8a207283cc)
+        Homebrew package vendor completions
+    ](https://github.com/teroyks/knowledge/commit/0ae2ce5b1ec5ae8ddb30195fd6412ccf8865637c)
 * [
-        Add Soulver to Mac apps
-    ](https://github.com/teroyks/knowledge/commit/5a4b242e67e540bda53e6b5f7110596fe99fe362)
+        Remove unused shortcut
+    ](https://github.com/teroyks/knowledge/commit/95862cd8c7de71967b742a6f0eb4416816753588)
 * [
-        Use Hack in iTerm2
-    ](https://github.com/teroyks/knowledge/commit/5a5d239b65008c6a8173c5287655c6e213a97a82)
+        Add `jless`
+    ](https://github.com/teroyks/knowledge/commit/ecec1976260f68113e6eb655e5361d4081124481)
 <!--END_SECTION:feed-->
