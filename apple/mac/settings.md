@@ -2,6 +2,20 @@
 
 These are some of the settings I like to configure for my Macs. Some are done with [BetterTouchTool](bettertouchtool.md), some with [Alfred](alfred/README.md), and some with standard Mac settings.
 
+## System Settings
+
+Control Center
+
+- Show in Menu Bar:
+  - Wi-Fi
+  - Bluetooth
+  - Sound
+- Show When Active:
+  - Focus
+  - Screen Mirroring
+  - Display
+  - Now Playing
+
 ## Keyboard Shortcuts
 
 - ⇪: [Act as Hyper Key ✧](bettertouchtool.md#caps-lock-as-hyper-key)
@@ -23,10 +37,12 @@ These are some of the settings I like to configure for my Macs. Some are done wi
 
 ### Settings
 
-- *General > Open “safe” files after downloading*: disable to never automatically open files without asking
+- _General > Open “safe” files after downloading_: disable to never automatically open files without asking
 
 ### Useful Extensions
 
+- Consent-o-Matic: handle GDPR consent forms
+  - allow _Preferences and Functionality_
 - Hush: closes cookie notifications etc.
 - JSON Peep: view JSON in a readable format
 - StopTheMadness: disables web page shenanigans (such as “prevent copying”)
