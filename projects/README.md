@@ -12,3 +12,7 @@
 
 - [gitmstatus](https://github.com/teroyks/gitmstatus) – list (and update) the status of all the repositories under current directory
 - [Git helper scripts](https://github.com/teroyks/git-helpers)
+
+### GitHub
+
+- [bookmarklet](https://gist.github.com/teroyks/ce46bbf0a860d4f0e7525aa46668584f) to colorize GitHub project view cards based on type
