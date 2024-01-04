@@ -18,6 +18,7 @@ These are (some of the) things I set up on a new Mac.
   - Some packages I always install:
   - [ ] `fish` – a frendlier shell; I use this as my login shell
   - [ ] `fzf` – a powerful command history & file system regexer
+    - alternative for command-line history: [McFly](https://github.com/cantino/mcfly)
   - [ ] `coreutils curl git` – prerequisites for `asdf`
   - [ ] `bat` – better `cat`
   - [ ] `fd` – better `find`
@@ -74,6 +75,7 @@ These are (some of the) things I set up on a new Mac.
 Some other often used programs (that I don’t necessarily install everywhere):
 
 - [ ] [Dash](https://kapeli.com/dash) – Handy programming reference, works also offline
+- [ ] [GitX](https://github.com/gitx/gitx) – Native Git GUI
 - [ ] [Jump Desktop](https://www.jumpdesktop.com/) – Easy screen sharing with remote machines
 - [ ] [LaunchControl](https://www.soma-zone.com/LaunchControl/) – GUI that makes managing services much nicer than editing plist XML files and messing around with `launchctl`.
 - [ ] [MindNode](https://www.mindnode.com/) – I like mind mapping for outlining, planning and taking notes, and MindNode is the nicest application for it that I’ve come across so far
