@@ -4,6 +4,7 @@
 
 - `git add <file>` – stage `file`
 - `git add -A` – stage all unstaged files in the working tree; also remove deleted files from repo
+  - `git add .` does the same with modern Git versions
 - `git add -p` – interactively stage hunks from diff
 
 ## Commit Files
@@ -22,6 +23,10 @@ To remove the directory `foo` from the tracked files, but leave the directory in
 1. Add `foo/` to `.gitignore`
 2. Remove the folder from local tracking: `git rm -r --cached foo/`
 3. Commit changes
+
+### Ignore Files in Commit (without `.gitignore`)
+
+Add the file to `.git/info/exclude`.
 
 ## List Branches
 
