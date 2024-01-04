@@ -148,6 +148,7 @@ Some useful utilities and enhancements for system apps
 
 - [CCleaner](clean up gigabytes of cache files, internet history files, and locate and purge large files) – clean up cache files, internet history files, and locate and purge large files
 - [Hush](https://oblador.github.io/hush/) – blocks most cookie & privacy nagging screens in Safari
+- [LaunchControl](https://www.soma-zone.com/LaunchControl/) – a `launchd` GUI; worth the price if you ever need to edit the launchd service configurations
 - [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) – blocks tracking pixels in Apple Mail
 - [PowerDirector Essentials](https://www.cyberlink.com/powerdirector-free-download-video-editing-software) – video editor with a generous free version ([recommended](https://www.macworld.com/article/347808/best-free-video-editing-software-for-mac.html))
 - [Script Debugger](https://latenightsw.com) – AppleScript editor & debugger, includes a free lite version
