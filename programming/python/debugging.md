@@ -6,6 +6,6 @@ Stack trace:
 import traceback
 
 def traced_function():
-	...
-	print(traceback.extract_stack())
+    ...
+    print(traceback.extract_stack())
 ```
