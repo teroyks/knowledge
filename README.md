@@ -12,6 +12,21 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        New page: start listing nice things
+    ](https://github.com/teroyks/knowledge/commit/3676485df3c837828bb4833368238f4d3f855a09)
+* [
+        Note about pip-tools
+    ](https://github.com/teroyks/knowledge/commit/6c8bd82667c5484fff6ffbb29ae55317617c22e0)
+* [
+        Upgrade dependencies & check versions
+    ](https://github.com/teroyks/knowledge/commit/d1dbd352a8c24115df0fe06a3c7434a21ede9f5d)
+* [
+        Formatting fixes
+    ](https://github.com/teroyks/knowledge/commit/712d3142b1b2e7c2c455acd2ab521b3bf6b2ee10)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/bec469eda5e76176d26b897715bde762d85d5b7c)
+* [
         GitHub project bookmarklet
     ](https://github.com/teroyks/knowledge/commit/60a21416ab711602e3c0495d5d59750a543ab034)
 * [
@@ -26,19 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Updating the README!
     ](https://github.com/teroyks/knowledge/commit/e5ac4ef904fd55c79f224cb935c1b612371e29d3)
-* [
-        Source another completion file
-    ](https://github.com/teroyks/knowledge/commit/53ad81cc53bbf7b6595de4c69dc4e6ddc35b0f78)
-* [
-        Mention Refurb
-    ](https://github.com/teroyks/knowledge/commit/2c9a990d9f5855057ade7ab78b0cbbafdb6be9cc)
-* [
-        Add Vivaldi
-    ](https://github.com/teroyks/knowledge/commit/332cd85fdef756f319217a060c1966cc3f5b64ee)
-* [
-        Search Notes workflow
-    ](https://github.com/teroyks/knowledge/commit/5b5244ffb8e9a2cd54ee05afe88c0b3b6a7d55cd)
-* [
-        Control Center Settings, Consent-o-Matic
-    ](https://github.com/teroyks/knowledge/commit/32680d6ea1252f6251421f8ad6b6013d74e692d3)
 <!--END_SECTION:feed-->
