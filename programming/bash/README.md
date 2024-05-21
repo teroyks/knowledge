@@ -40,6 +40,23 @@ done
 
 Testing for command execution failing:
 
+Recommended: test exit code directly:
+
+```shell
+if command
+then
+    # last command was successful
+fi
+
+if ! command
+then
+    # last command was not successful
+    # if you need the exit code, save it before testing
+fi
+```
+
+Not usually recommended: run command first, test exit code separately:
+
 ```shell
 if (( $? )); then
     # last command was not successful
