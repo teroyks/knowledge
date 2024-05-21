@@ -29,10 +29,12 @@ These are (some of the) things I set up on a new Mac.
   - [ ] `neovim` – my favorite text editor
   - [ ] `pipx` – run Python apps in isolated environments
     - [ ] `piplexed` – check for outdated `pipx` packages
+  - [ ] `renametools` – mass copying, renaming, etc. with `vim` changes editing
   - [ ] `ripgrep` – better `grep`
   - [ ] `shellcheck` – a shell script static analysis tool
   - [ ] `tldr` – simplified alternative to `man` pages
   - [ ] `tree` – display directories as trees
+  - [ ] `xh` – frendlier `curl` alternative (similar to HTTPie)
   - [ ] `zoxide` – a handy tool for jumping to regularly used directories
 - [ ] [Obsidian](/apps/obsidian/README.md) – a powerful and infinitely configurable text file–based note taking program
   - I keep many types of notes in Obsidian, and even manage some text-heavy Git repositories (such as this one) with it
