@@ -12,6 +12,27 @@ Append a directory to the path. The `-U´ option makes the setting universal (pe
 set -U fish_user_paths $fish_user_paths /usr/local/bin
 ```
 
+### Check for Command in Path
+
+Return from a script if a command is not found:
+
+```shell
+set -l CMD command-name-here
+if not type -q $CMD
+    echo Command not found: $CMD >&2
+    return 1
+end
+```
+
+Different types of tests to use:
+
+- `type` – any executable
+- `command` – an external program
+- `builtin` – a Fish builtin
+- `functions` – a Fish function
+
+_Note: before Fish 3.10, use `-sq` instead of `-q`._
+
 ## Recipes
 
 ### Command Substitution
