@@ -12,6 +12,27 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Merge remote-tracking branch 'origin/main'
+    ](https://github.com/teroyks/knowledge/commit/0f2d69297398b1c5997dd6ba332e9b3c8fc4fb0f)
+* [
+        Add renametools and xh
+    ](https://github.com/teroyks/knowledge/commit/c974bc8dddcc2929f7e78aeb687ca983bb077394)
+* [
+        Check if command exists on path
+    ](https://github.com/teroyks/knowledge/commit/aa981e667dabd2d89c61d1174bba99bc30b888aa)
+* [
+        Create react playground with Vite
+    ](https://github.com/teroyks/knowledge/commit/52088950080f4a6b5892f1851858c62633f7194a)
+* [
+        Testing script exit code
+    ](https://github.com/teroyks/knowledge/commit/9849b87324b25ac2423ffc6e31ba9b3559589a2e)
+* [
+        Hatch configuration start
+    ](https://github.com/teroyks/knowledge/commit/23876fdcb3794a16fa2f6e8f06245b2bb651ae2f)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/cd09ca0a447c087e345b4e07ae72ab8153768e6c)
+* [
         New page: start listing nice things
     ](https://github.com/teroyks/knowledge/commit/3676485df3c837828bb4833368238f4d3f855a09)
 * [
@@ -20,25 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Upgrade dependencies & check versions
     ](https://github.com/teroyks/knowledge/commit/d1dbd352a8c24115df0fe06a3c7434a21ede9f5d)
-* [
-        Formatting fixes
-    ](https://github.com/teroyks/knowledge/commit/712d3142b1b2e7c2c455acd2ab521b3bf6b2ee10)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/bec469eda5e76176d26b897715bde762d85d5b7c)
-* [
-        GitHub project bookmarklet
-    ](https://github.com/teroyks/knowledge/commit/60a21416ab711602e3c0495d5d59750a543ab034)
-* [
-        Ignore files from commit
-    ](https://github.com/teroyks/knowledge/commit/3a77ee884bfa9a688a7786630048c37c0057e839)
-* [
-        LaunchControl
-    ](https://github.com/teroyks/knowledge/commit/264512b7ad9754f9f9767c9978b1114670034082)
-* [
-        McFly command-line history
-    ](https://github.com/teroyks/knowledge/commit/80b0f7a1aa661d19ff3117b83ef2834597c5ac54)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/e5ac4ef904fd55c79f224cb935c1b612371e29d3)
 <!--END_SECTION:feed-->
