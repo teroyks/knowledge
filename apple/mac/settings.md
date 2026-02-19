@@ -23,10 +23,9 @@ Control Center
 - ✧Space: Alfred Snippet
 - ⇧⌃Space: Open Fantastical Mini Window
 - ⇧⌥Space: Spotlight Search
-- ✧C: Toggle Caps Lock
-- ✧V: Show Pastebot Clipboard
 - ⇧⌥⌘←: Move Window Left
 - ⇧⌥⌘→: Move Window Right
+- ⌘§: Keyboard > Move focus to next window
 
 ### Rectangle
 
