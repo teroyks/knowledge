@@ -12,6 +12,15 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Merge remote-tracking branch 'origin/main'
+    ](https://github.com/teroyks/knowledge/commit/c07ef2ffbf074932c52ac93f770f53bf88853be0)
+* [
+        Markdown links plugin
+    ](https://github.com/teroyks/knowledge/commit/9fda509f5819d59b11d227eb26455e8974f307fb)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/24ada7ccbfb2ea434f4376aa986cdaa83746908c)
+* [
         Find first match in list
     ](https://github.com/teroyks/knowledge/commit/a7c6ca830fe6b6c78b63fea136da904aece87a1c)
 * [
@@ -32,13 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Update Mac hotkeys
     ](https://github.com/teroyks/knowledge/commit/1fa9394e066e14a5e0c79b6dc4e9a71f40069174)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/791707245dc5f05f9309eed1cc4aeeb1a6e12592)
-* [
-        Merge remote-tracking branch 'origin/main'
-    ](https://github.com/teroyks/knowledge/commit/0f2d69297398b1c5997dd6ba332e9b3c8fc4fb0f)
-* [
-        Add renametools and xh
-    ](https://github.com/teroyks/knowledge/commit/c974bc8dddcc2929f7e78aeb687ca983bb077394)
 <!--END_SECTION:feed-->
