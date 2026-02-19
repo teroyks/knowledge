@@ -16,6 +16,14 @@ Avoid the `-m` flag – it encourages writing one-line commit messages that are 
 - a good [article](https://chris.beams.io/posts/git-commit/) on writing commit messages
 - [gitmoji](https://gitmoji.carloscuesta.me) are a handy way to add visual cues (and some whimsy) to what the commits are about (I enter them with the help of an [Alfred workflow](../apple/mac/alfred/README.md#workflows))
 
+### Update Metadata Only
+
+Update timestamp and author without changing content – for example, for a new push to remote that triggers CI.
+
+```shell
+git commit --amend --reset-author
+```
+
 ### Uncommit – Remove Directory from Repository
 
 To remove the directory `foo` from the tracked files, but leave the directory in the workspace:
