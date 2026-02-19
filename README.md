@@ -12,33 +12,33 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Find first match in list
+    ](https://github.com/teroyks/knowledge/commit/a7c6ca830fe6b6c78b63fea136da904aece87a1c)
+* [
+        Jello examples
+    ](https://github.com/teroyks/knowledge/commit/7be8dc5062ddad3bccd809d09b5c8d37d43aeb0a)
+* [
+        Parametrize a test
+    ](https://github.com/teroyks/knowledge/commit/76761f71204768fda82eef2894eb9cc241b6ab65)
+* [
+        Page break before a heading
+    ](https://github.com/teroyks/knowledge/commit/e3416c9353a16605c8ca7040ba1ca305ec11919c)
+* [
+        Make a metadata-only commit
+    ](https://github.com/teroyks/knowledge/commit/1b401346ca83397edd03bce2ae97a2e4a99dc120)
+* [
+        Set symbolic references
+    ](https://github.com/teroyks/knowledge/commit/2aa1c88744f3d4c9181ef1267c5deaf8cc1b2db8)
+* [
+        Update Mac hotkeys
+    ](https://github.com/teroyks/knowledge/commit/1fa9394e066e14a5e0c79b6dc4e9a71f40069174)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/791707245dc5f05f9309eed1cc4aeeb1a6e12592)
+* [
         Merge remote-tracking branch 'origin/main'
     ](https://github.com/teroyks/knowledge/commit/0f2d69297398b1c5997dd6ba332e9b3c8fc4fb0f)
 * [
         Add renametools and xh
     ](https://github.com/teroyks/knowledge/commit/c974bc8dddcc2929f7e78aeb687ca983bb077394)
-* [
-        Check if command exists on path
-    ](https://github.com/teroyks/knowledge/commit/aa981e667dabd2d89c61d1174bba99bc30b888aa)
-* [
-        Create react playground with Vite
-    ](https://github.com/teroyks/knowledge/commit/52088950080f4a6b5892f1851858c62633f7194a)
-* [
-        Testing script exit code
-    ](https://github.com/teroyks/knowledge/commit/9849b87324b25ac2423ffc6e31ba9b3559589a2e)
-* [
-        Hatch configuration start
-    ](https://github.com/teroyks/knowledge/commit/23876fdcb3794a16fa2f6e8f06245b2bb651ae2f)
-* [
-        Updating the README!
-    ](https://github.com/teroyks/knowledge/commit/cd09ca0a447c087e345b4e07ae72ab8153768e6c)
-* [
-        New page: start listing nice things
-    ](https://github.com/teroyks/knowledge/commit/3676485df3c837828bb4833368238f4d3f855a09)
-* [
-        Note about pip-tools
-    ](https://github.com/teroyks/knowledge/commit/6c8bd82667c5484fff6ffbb29ae55317617c22e0)
-* [
-        Upgrade dependencies & check versions
-    ](https://github.com/teroyks/knowledge/commit/d1dbd352a8c24115df0fe06a3c7434a21ede9f5d)
 <!--END_SECTION:feed-->
