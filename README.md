@@ -12,6 +12,12 @@ Just testing out some stuff here… (still fiddling…)
 
 <!--START_SECTION:feed-->
 * [
+        Fix plugins link
+    ](https://github.com/teroyks/knowledge/commit/5f90524bfe6b75849636d518d3390db8600a0c1e)
+* [
+        Updating the README!
+    ](https://github.com/teroyks/knowledge/commit/83dda0b825360e678282d3787f92d727fce9520f)
+* [
         Merge remote-tracking branch 'origin/main'
     ](https://github.com/teroyks/knowledge/commit/c07ef2ffbf074932c52ac93f770f53bf88853be0)
 * [
@@ -35,10 +41,4 @@ Just testing out some stuff here… (still fiddling…)
 * [
         Make a metadata-only commit
     ](https://github.com/teroyks/knowledge/commit/1b401346ca83397edd03bce2ae97a2e4a99dc120)
-* [
-        Set symbolic references
-    ](https://github.com/teroyks/knowledge/commit/2aa1c88744f3d4c9181ef1267c5deaf8cc1b2db8)
-* [
-        Update Mac hotkeys
-    ](https://github.com/teroyks/knowledge/commit/1fa9394e066e14a5e0c79b6dc4e9a71f40069174)
 <!--END_SECTION:feed-->
