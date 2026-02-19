@@ -158,6 +158,17 @@ A couple of macOS-specific ones:
 - `core.ignorecase=true` – work better with a case-insensitive filesystem (e.g. on a Mac)
 - `core.precomposeunicode=true` – revert the Unicode decomposition of filenames done by macOS
 
+## Symbolic References
+
+Make `main` point to the `master` branch:
+
+```shell
+git symbolic-ref refs/heads/main refs/heads/master
+git symbolic-ref refs/remotes/origin/main refs/remotes/origin/master
+```
+
+With this, you can use both `master` and `main` interchangeably.
+
 ## Scripts
 
 Some scripts to help with managing version control.
