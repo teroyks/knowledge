@@ -28,6 +28,17 @@ Run a specific test within a module:
 pytest test_mod.py::test_func
 ```
 
+## Parametrization
+
+Rerun a test multiple times
+
+```python
+@pytest.mark.parametrize("execution_number", range(10))
+def test_func(execution_number):
+    """Repeat this test 10 times"""
+    ...
+```
+
 ## Resources
 
 - [Pytest guide](https://stribny.name/blog/pytest/)
